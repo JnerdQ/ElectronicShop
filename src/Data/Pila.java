@@ -18,7 +18,7 @@ public class Pila<T> {
 		return top >= arreglo.length;
 	}
 
-	public T pop() {
+	private T pop() {
 		if (vacia()) {
 			throw new RuntimeException("Pila esta vacia");
 		}
@@ -27,7 +27,7 @@ public class Pila<T> {
 		
 	}
 
-	public void push(T dato) {
+	private void push(T dato) {
 		if (full()) {
 			throw new RuntimeException("La pila esta llena");
 		}
