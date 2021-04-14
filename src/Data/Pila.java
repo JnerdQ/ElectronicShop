@@ -4,7 +4,6 @@ public class Pila<T> {
 	private int top;
 	private T[] arreglo;
 
-
 	public Pila(int tamano) {
 		top = 0;
 		arreglo = (T[]) new Object[tamano];
@@ -14,20 +13,20 @@ public class Pila<T> {
 		return top <= 0;
 	}
 
-	private boolean full() {
+	public boolean full() {
 		return top >= arreglo.length;
 	}
 
-	private T pop() {
+	public T pop() {
 		if (vacia()) {
 			throw new RuntimeException("Pila esta vacia");
 		}
 		top--;
 		return arreglo[top];
-		
+
 	}
 
-	private void push(T dato) {
+	public void push(T dato) {
 		if (full()) {
 			throw new RuntimeException("La pila esta llena");
 		}
@@ -35,4 +34,13 @@ public class Pila<T> {
 		top++;
 
 	}
+
+	// retorna el top de la pila
+	public T peek() {
+		if (vacia()) {
+			throw new RuntimeException("Pila esta vacia");
+		}
+		return arreglo[top];
+	}
+
 }

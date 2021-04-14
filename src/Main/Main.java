@@ -42,6 +42,8 @@ public class Main {
 		for (int i = 0; i < enteros.length; i++) {
 			System.out.print(pila.pop()+" ");
 		}
+		
+		System.out.println(pila.peek());
 
 	}
 
