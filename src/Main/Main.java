@@ -1,5 +1,6 @@
 package Main;
 
+import Data.Cola;
 import Data.ListaEnlazada;
 import Data.Pila;
 
@@ -37,13 +38,29 @@ public class Main {
 		for (int i = 0; i < enteros.length; i++) {
 			pila.push(enteros[i]);
 		}
-
-		// Imprimir pila
+		
+		int peek = pila.peek();
+		System.out.println("Top de la pila: "+ peek);
+		
+		// Imprimir pila 
 		for (int i = 0; i < enteros.length; i++) {
 			System.out.print(pila.pop()+" ");
 		}
 		
-		System.out.println(pila.peek());
+		System.out.println();
+		System.out.println("---------------------");
+		System.out.println("Prueba Cola");
+		
+		Cola<Integer> cola =  new Cola<Integer>();
+		cola.encolar(3);
+		cola.encolar(2);
+		cola.encolar(1);
+		
+		cola.desencolar();
+		
+		cola.imprimirCola();
+		
+
 
 	}
 

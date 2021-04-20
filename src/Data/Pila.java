@@ -5,7 +5,7 @@ public class Pila<T> {
 	private T[] arreglo;
 
 	public Pila(int tamano) {
-		top = 0;
+		this.top = 0;
 		arreglo = (T[]) new Object[tamano];
 	}
 
@@ -40,7 +40,7 @@ public class Pila<T> {
 		if (vacia()) {
 			throw new RuntimeException("Pila esta vacia");
 		}
-		return arreglo[top];
+		return arreglo[top-1];
 	}
 
 }

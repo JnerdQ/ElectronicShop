@@ -8,6 +8,9 @@ public class Nodo<T> {
 		this.dato = dato;
 	}
 
+	public Nodo() {
+	}
+
 	public T getDato() {
 		return dato;
 	}
