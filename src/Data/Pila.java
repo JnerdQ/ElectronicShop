@@ -1,46 +1,50 @@
 package Data;
 
+import java.util.EmptyStackException;
+
+import javax.management.RuntimeErrorException;
+
 public class Pila<T> {
 	private int top;
 	private T[] arreglo;
 
 	public Pila(int tamano) {
-		this.top = 0;
+		this.top = -1;
 		arreglo = (T[]) new Object[tamano];
 	}
 
 	public boolean vacia() {
-		return top <= 0;
+		return (top == -1);
 	}
 
 	public boolean full() {
-		return top >= arreglo.length;
+		return (top >= arreglo.length);
 	}
 
-	public T pop() {
+	public T pop(){
 		if (vacia()) {
-			throw new RuntimeException("Pila esta vacia");
+			 throw new EmptyStackException();
 		}
-		top--;
-		return arreglo[top];
+		return arreglo[top--];
 
 	}
 
-	public void push(T dato) {
+	public void push(T dato){
 		if (full()) {
-			throw new RuntimeException("La pila esta llena");
+			 throw new StackOverflowError();
+		} else {
+			top++;
+			arreglo[top] = dato;
 		}
-		arreglo[top] = dato;
-		top++;
 
 	}
 
 	// retorna el top de la pila
-	public T peek() {
+	public T peek(){
 		if (vacia()) {
-			throw new RuntimeException("Pila esta vacia");
+			throw new EmptyStackException();
 		}
-		return arreglo[top-1];
+		return arreglo[top];
 	}
 
 }
