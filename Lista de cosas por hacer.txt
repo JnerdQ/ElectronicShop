@@ -1,0 +1,27 @@
+
+
+Lista de cosas por hacer:
+
+	Implementar un cornometro de altra precision para la comparacion
+	Interfaz de usuario
+	Analisis comparativo (con tablas y graficos) (Daniel)
+		Analisis asintotico (para toda accion?)
+
+	Lista de acciones del software/funcionalidades:
+		Todos:
+			Buscar //PRINCIPAL// pila(Brandol), arreglo(Julian), cola(Daniel), lista(David)
+				Ordenar y filtrar
+					Precio
+					Nombre 
+					Cateogria
+					Marca
+			Eliminar(comprar)  (Julian)
+
+		Como vendedor:
+			Insertar(crear) (David)
+			Editar(actualizar) (Brandol)
+
+
+Preguntas profe:
+	En la plantilla dice que hay que hacer la comparacion con entre 3 y 5 pero ud nos dijo q solo una. (?) (Brandol)
+	Los arreglos son estructras?, tambien hacemos implementacion con estos?
