@@ -1,0 +1,58 @@
+
+Pagina de venta online de electronicos.(solo componentes de computadores)
+
+Documento:
+
+Prototipo:
+
+Presentacion:
+
+Partes:
+	Pagina inicial:
+
+		Buscador:
+
+		Filtros por categoria:(Sortear por precio, por marca, por recomendaciones, tiempo de llegada, intervalo de tiempo en el que llega en cada subcategoria final.)
+			Repuestos:
+				Por uso:
+					Gamer
+					De casa
+					Empresarial
+
+				Por tipos de partes:
+					cpu
+					gpu
+					ram
+					Disco solido
+					.
+					.
+					.
+			Computador compelto:
+				(Ya completo armado)
+		
+		Recomendacion del programa segun computador para modificaciones
+
+Lo que programar:
+
+	Funcion de visualizacion de producto
+
+	clases:
+
+		class Producto
+			porUso = "Gamer"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
