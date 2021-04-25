@@ -7,12 +7,18 @@ public class Producto {
 	private String opinion;
 	private String marca;
 
-	public Producto(int precio, String nombre, String categoria, String opinion, String marca, String despricion) {
+	public Producto(int precio, String nombre, String categoria, String opinion, String marca) {
 		this.precio = precio;
 		this.nombre = nombre;
 		this.categoria = categoria;
 		this.opinion = opinion;
 		this.marca = marca;
+	}
+
+	@Override
+	public String toString() {
+		return "Nombre: " + getNombre() + "\n" + "Precio: " + getPrecio() + "\n" + "Categoria: " + getCategoria() + "\n"
+				+ "Marca: " + getMarca() + "\n" + "Opinion: " + getOpinion() +"\n"+ "-----------";
 	}
 
 	public int getPrecio() {

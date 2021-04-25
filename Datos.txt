@@ -1,1098 +1,1098 @@
-Procesador	20000	Empresarial	SSI	Malo
-Memoria RAM	237290	Personal	LVD	Bueno
-Memoria RAM	514200	Gaming		XTS	Regular
-Memoria RAM	1299000	Personal	SSI	Regular
-Tarjeta madre	325000	Personal	LVD	Regular
-Procesador	237290	Empresarial	AST	Bueno
-Tarjeta grafica	514200	Empresarial	XTS	Bueno
-Disco duro	325000	Personal	NER	Malo
-Tarjeta madre	325000	Empresarial	XTS	Bueno
-Memoria RAM	514200	Personal	XTS	Malo
-Tarjeta madre	237290	Personal	AST	Regular
-Tarjeta grafica	1299000	Personal	NER	Malo
-Procesador	514200	Personal	SSI	Regular
-Tarjeta madre	1299000	Empresarial	LVD	Regular
-Memoria RAM	514200	Personal	AST	Bueno
-Memoria RAM	237290	Gaming		XTS	Regular
-Tarjeta madre	1299000	Empresarial	XTS	Malo
-Disco duro	514200	Gaming		LVD	Regular
-Tarjeta madre	300000	Empresarial	SSI	Regular
-Procesador	325000	Empresarial	AST	Regular
-Disco duro	1299000	Gaming	NER	Regular
-Memoria RAM	237290	Personal	SSI	Malo
-Tarjeta grafica	20000	Gaming	XTS	Bueno
-Disco duro	1299000	Gaming	SSI	Malo
-Tarjeta madre	20000	Personal	XTS	Bueno
-Procesador	514200	Gaming	LVD	Regular
-Memoria RAM	237290	Empresarial	SSI	Regular
-Memoria RAM	325000	Empresarial	NER	Bueno
-Disco duro	1299000	Gaming	AST	Malo
-Procesador	514200	Personal	XTS	Regular
-Tarjeta madre	300000	Gaming	LVD	Malo
-Tarjeta grafica	20000	Empresarial	AST	Malo
-Tarjeta grafica	1299000	Personal	LVD	Regular
-Tarjeta madre	325000	Empresarial	XTS	Bueno
-Procesador	528000	Personal	AST	Bueno
-Disco duro	20000	Personal	XTS	Regular
-Tarjeta grafica	300000	Personal	LVD	Bueno
-Tarjeta grafica	514200	Gaming	LVD	Regular
-Tarjeta madre	300000	Personal	AST	Bueno
-Tarjeta madre	514200	Empresarial	SSI	Regular
-Tarjeta grafica	325000	Gaming	AST	Regular
-Memoria RAM	528000	Personal	NER	Bueno
-Disco duro	528000	Personal	NER	Regular
-Procesador	237290	Gaming	LVD	Regular
-Procesador	514200	Personal	NER	Bueno
-Tarjeta madre	1299000	Gaming	SSI	Malo
-Tarjeta grafica	1299000	Gaming	LVD	Malo
-Tarjeta madre	1299000	Empresarial	NER	Bueno
-Memoria RAM	300000	Empresarial	AST	Malo
-Procesador	528000	Personal	NER	Regular
-Memoria RAM	1299000	Empresarial	AST	Regular
-Disco duro	528000	Gaming	XTS	Malo
-Disco duro	300000	Personal	SSI	Regular
-Memoria RAM	1299000	Gaming	SSI	Malo
-Disco duro	1299000	Empresarial	NER	Regular
-Procesador	20000	Personal	NER	Malo
-Memoria RAM	325000	Gaming	SSI	Malo
-Disco duro	528000	Empresarial	SSI	Malo
-Tarjeta madre	237290	Gaming	XTS	Regular
-Tarjeta grafica	325000	Gaming	XTS	Malo
-Disco duro	300000	Empresarial	SSI	Bueno
-Tarjeta grafica	20000	Gaming	SSI	Malo
-Tarjeta grafica	528000	Personal	AST	Regular
-Tarjeta madre	237290	Personal	XTS	Malo
-Memoria RAM	237290	Personal	NER	Bueno
-Procesador	514200	Personal	AST	Malo
-Procesador	20000	Empresarial	LVD	Regular
-Disco duro	20000	Empresarial	SSI	Regular
-Disco duro	237290	Gaming	LVD	Regular
-Procesador	300000	Gaming	AST	Regular
-Tarjeta madre	237290	Gaming	LVD	Bueno
-Procesador	237290	Personal	NER	Regular
-Tarjeta grafica	325000	Gaming	AST	Bueno
-Tarjeta madre	20000	Empresarial	AST	Regular
-Memoria RAM	1299000	Personal	XTS	Malo
-Tarjeta grafica	325000	Empresarial	LVD	Regular
-Memoria RAM	237290	Empresarial	XTS	Malo
-Disco duro	20000	Empresarial	LVD	Regular
-Tarjeta grafica	1299000	Personal	NER	Bueno
-Tarjeta grafica	528000	Personal	LVD	Malo
-Tarjeta grafica	20000	Personal	AST	Malo
-Memoria RAM	20000	Empresarial	LVD	Bueno
-Memoria RAM	300000	Gaming	AST	Bueno
-Tarjeta madre	528000	Empresarial	XTS	Malo
-Memoria RAM	514200	Gaming	AST	Bueno
-Procesador	300000	Empresarial	XTS	Bueno
-Tarjeta grafica	528000	Gaming	XTS	Regular
-Tarjeta grafica	514200	Personal	AST	Malo
-Memoria RAM	237290	Empresarial	AST	Malo
-Procesador	237290	Gaming	SSI	Bueno
-Memoria RAM	300000	Personal	SSI	Regular
-Memoria RAM	528000	Gaming	NER	Malo
-Procesador	1299000	Empresarial	NER	Regular
-Tarjeta madre	1299000	Gaming	LVD	Malo
-Procesador	528000	Personal	SSI	Regular
-Tarjeta grafica	20000	Personal	LVD	Bueno
-Procesador	1299000	Personal	LVD	Bueno
-Tarjeta grafica	528000	Gaming	SSI	Bueno
-Tarjeta madre	237290	Personal	LVD	Regular
-Memoria RAM	514200	Gaming	LVD	Malo
-Procesador	20000	Empresarial	AST	Regular
-Tarjeta grafica	325000	Personal	XTS	Malo
-Tarjeta madre	514200	Empresarial	AST	Malo
-Disco duro	514200	Personal	AST	Malo
-Procesador	514200	Personal	AST	Malo
-Tarjeta madre	514200	Empresarial	AST	Malo
-Procesador	237290	Gaming	XTS	Regular
-Tarjeta grafica	325000	Personal	XTS	Regular
-Procesador	20000	Gaming	SSI	Bueno
-Tarjeta grafica	300000	Personal	XTS	Regular
-Tarjeta madre	514200	Gaming	NER	Malo
-Tarjeta grafica	20000	Gaming	LVD	Regular
-Procesador	300000	Personal	NER	Malo
-Memoria RAM	1299000	Personal	SSI	Malo
-Tarjeta madre	528000	Personal	AST	Bueno
-Tarjeta madre	1299000	Gaming	LVD	Bueno
-Disco duro	237290	Gaming	AST	Regular
-Procesador	514200	Gaming	AST	Regular
-Memoria RAM	514200	Gaming	LVD	Regular
-Tarjeta grafica	300000	Personal	SSI	Malo
-Disco duro	528000	Gaming	NER	Malo
-Memoria RAM	20000	Empresarial	NER	Regular
-Procesador	514200	Gaming	NER	Malo
-Tarjeta grafica	325000	Personal	SSI	Regular
-Disco duro	1299000	Personal	NER	Regular
-Procesador	20000	Gaming	LVD	Malo
-Disco duro	300000	Empresarial	NER	Malo
-Tarjeta grafica	300000	Gaming	SSI	Malo
-Tarjeta madre	514200	Empresarial	SSI	Bueno
-Disco duro	528000	Personal	XTS	Regular
-Tarjeta madre	20000	Gaming	NER	Malo
-Tarjeta grafica	237290	Personal	XTS	Regular
-Tarjeta grafica	1299000	Gaming	LVD	Malo
-Procesador	528000	Empresarial	XTS	Malo
-Tarjeta grafica	1299000	Gaming	AST	Bueno
-Tarjeta madre	1299000	Gaming	NER	Malo
-Tarjeta madre	237290	Empresarial	LVD	Regular
-Tarjeta madre	1299000	Personal	NER	Regular
-Tarjeta grafica	1299000	Personal	NER	Bueno
-Tarjeta madre	514200	Empresarial	XTS	Regular
-Disco duro	237290	Empresarial	LVD	Malo
-Tarjeta grafica	1299000	Gaming	XTS	Regular
-Tarjeta madre	325000	Empresarial	AST	Regular
-Disco duro	1299000	Gaming	XTS	Regular
-Procesador	528000	Personal	NER	Bueno
-Memoria RAM	528000	Personal	LVD	Regular
-Disco duro	325000	Gaming	SSI	Regular
-Disco duro	300000	Gaming	AST	Regular
-Memoria RAM	325000	Gaming	LVD	Malo
-Disco duro	1299000	Empresarial	SSI	Malo
-Memoria RAM	20000	Gaming	AST	Regular
-Disco duro	528000	Gaming	XTS	Malo
-Tarjeta madre	20000	Personal	AST	Malo
-Tarjeta madre	237290	Gaming	SSI	Bueno
-Memoria RAM	325000	Personal	LVD	Regular
-Procesador	1299000	Gaming	AST	Bueno
-Disco duro	20000	Gaming	XTS	Bueno
-Tarjeta grafica	1299000	Gaming	LVD	Malo
-Disco duro	514200	Personal	SSI	Bueno
-Tarjeta grafica	20000	Personal	NER	Regular
-Tarjeta madre	20000	Gaming	LVD	Bueno
-Memoria RAM	237290	Gaming	NER	Regular
-Procesador	325000	Personal	XTS	Bueno
-Tarjeta grafica	528000	Personal	SSI	Regular
-Procesador	1299000	Personal	XTS	Malo
-Memoria RAM	300000	Gaming	LVD	Regular
-Tarjeta grafica	528000	Empresarial	AST	Regular
-Disco duro	20000	Personal	XTS	Bueno
-Procesador	20000	Gaming	AST	Regular
-Tarjeta grafica	325000	Personal	AST	Regular
-Tarjeta grafica	300000	Gaming	LVD	Regular
-Disco duro	1299000	Personal	LVD	Regular
-Memoria RAM	514200	Personal	LVD	Malo
-Procesador	514200	Personal	LVD	Regular
-Tarjeta grafica	514200	Personal	XTS	Malo
-Tarjeta madre	514200	Gaming	LVD	Malo
-Procesador	237290	Personal	SSI	Malo
-Memoria RAM	20000	Empresarial	NER	Regular
-Procesador	20000	Gaming	AST	Regular
-Tarjeta grafica	514200	Empresarial	SSI	Bueno
-Tarjeta madre	514200	Personal	SSI	Bueno
-Tarjeta grafica	237290	Personal	XTS	Bueno
-Tarjeta madre	514200	Empresarial	AST	Regular
-Disco duro	20000	Empresarial	SSI	Bueno
-Disco duro	237290	Personal	SSI	Malo
-Procesador	528000	Gaming	LVD	Regular
-Memoria RAM	300000	Personal	XTS	Malo
-Procesador	514200	Empresarial	NER	Malo
-Procesador	1299000	Personal	XTS	Malo
-Tarjeta madre	20000	Personal	NER	Malo
-Tarjeta madre	1299000	Empresarial	NER	Bueno
-Tarjeta madre	300000	Gaming	XTS	Malo
-Procesador	20000	Personal	SSI	Regular
-Disco duro	528000	Empresarial	XTS	Bueno
-Tarjeta grafica	514200	Personal	LVD	Regular
-Procesador	20000	Empresarial	NER	Regular
-Memoria RAM	514200	Empresarial	SSI	Bueno
-Memoria RAM	20000	Empresarial	LVD	Regular
-Disco duro	300000	Gaming	NER	Regular
-Procesador	325000	Empresarial	XTS	Bueno
-Tarjeta grafica	20000	Empresarial	NER	Bueno
-Memoria RAM	237290	Empresarial	LVD	Regular
-Tarjeta madre	237290	Gaming	AST	Regular
-Disco duro	20000	Personal	XTS	Malo
-Procesador	20000	Empresarial	NER	Malo
-Tarjeta madre	325000	Empresarial	LVD	Regular
-Tarjeta madre	1299000	Gaming	SSI	Malo
-Disco duro	528000	Empresarial	LVD	Bueno
-Procesador	514200	Gaming	AST	Bueno
-Disco duro	528000	Gaming	SSI	Regular
-Tarjeta grafica	528000	Personal	NER	Malo
-Disco duro	237290	Gaming	XTS	Regular
-Tarjeta madre	300000	Gaming	LVD	Regular
-Tarjeta grafica	325000	Personal	LVD	Malo
-Disco duro	1299000	Gaming	NER	Regular
-Tarjeta grafica	325000	Personal	XTS	Regular
-Disco duro	1299000	Personal	AST	Bueno
-Procesador	325000	Empresarial	SSI	Bueno
-Tarjeta madre	300000	Gaming	XTS	Regular
-Tarjeta madre	325000	Empresarial	XTS	Malo
-Tarjeta grafica	528000	Gaming	SSI	Regular
-Procesador	20000	Empresarial	SSI	Malo
-Memoria RAM	237290	Gaming	XTS	Regular
-Disco duro	300000	Gaming	AST	Malo
-Procesador	325000	Personal	NER	Malo
-Memoria RAM	325000	Empresarial	SSI	Regular
-Tarjeta grafica	1299000	Personal	SSI	Malo
-Procesador	325000	Empresarial	LVD	Bueno
-Tarjeta madre	1299000	Personal	NER	Bueno
-Tarjeta madre	237290	Personal	SSI	Malo
-Procesador	1299000	Personal	NER	Malo
-Tarjeta madre	514200	Personal	SSI	Bueno
-Disco duro	300000	Personal	LVD	Bueno
-Memoria RAM	1299000	Empresarial	NER	Malo
-Procesador	1299000	Personal	LVD	Regular
-Tarjeta madre	20000	Personal	AST	Bueno
-Procesador	528000	Empresarial	NER	Malo
-Disco duro	325000	Gaming	XTS	Bueno
-Procesador	514200	Personal	AST	Bueno
-Tarjeta madre	514200	Personal	LVD	Malo
-Disco duro	300000	Gaming	AST	Regular
-Memoria RAM	325000	Gaming	AST	Malo
-Tarjeta madre	300000	Personal	XTS	Bueno
-Disco duro	1299000	Personal	NER	Bueno
-Tarjeta madre	325000	Personal	AST	Regular
-Procesador	20000	Empresarial	SSI	Regular
-Memoria RAM	528000	Empresarial	LVD	Bueno
-Tarjeta grafica	300000	Empresarial	SSI	Regular
-Memoria RAM	300000	Empresarial	AST	Regular
-Memoria RAM	528000	Personal	SSI	Regular
-Tarjeta madre	20000	Personal	SSI	Regular
-Tarjeta grafica	528000	Gaming	XTS	Regular
-Tarjeta grafica	20000	Gaming	SSI	Bueno
-Procesador	300000	Gaming	XTS	Regular
-Procesador	514200	Empresarial	SSI	Bueno
-Tarjeta grafica	514200	Gaming	XTS	Malo
-Tarjeta grafica	20000	Gaming	SSI	Malo
-Disco duro	528000	Gaming	AST	Bueno
-Tarjeta madre	1299000	Empresarial	AST	Regular
-Tarjeta grafica	20000	Gaming	SSI	Regular
-Memoria RAM	1299000	Empresarial	SSI	Bueno
-Tarjeta madre	325000	Empresarial	LVD	Regular
-Tarjeta madre	1299000	Empresarial	AST	Bueno
-Memoria RAM	20000	Empresarial	AST	Bueno
-Procesador	528000	Personal	LVD	Regular
-Procesador	514200	Gaming	XTS	Regular
-Tarjeta madre	1299000	Personal	SSI	Regular
-Memoria RAM	325000	Empresarial	AST	Malo
-Disco duro	325000	Gaming	LVD	Bueno
-Tarjeta grafica	1299000	Empresarial	AST	Malo
-Tarjeta madre	300000	Empresarial	SSI	Bueno
-Disco duro	237290	Personal	AST	Bueno
-Disco duro	528000	Empresarial	XTS	Bueno
-Memoria RAM	514200	Empresarial	XTS	Malo
-Disco duro	300000	Empresarial	AST	Malo
-Memoria RAM	528000	Gaming	XTS	Malo
-Tarjeta grafica	514200	Empresarial	AST	Malo
-Tarjeta madre	237290	Gaming	XTS	Bueno
-Memoria RAM	20000	Gaming	XTS	Malo
-Tarjeta madre	20000	Empresarial	AST	Regular
-Tarjeta madre	20000	Gaming	AST	Regular
-Memoria RAM	20000	Personal	XTS	Malo
-Disco duro	528000	Empresarial	NER	Regular
-Procesador	528000	Empresarial	XTS	Malo
-Tarjeta grafica	237290	Personal	SSI	Malo
-Tarjeta madre	20000	Gaming	XTS	Bueno
-Disco duro	528000	Personal	AST	Bueno
-Tarjeta grafica	528000	Empresarial	AST	Bueno
-Tarjeta grafica	237290	Gaming	XTS	Regular
-Memoria RAM	20000	Empresarial	LVD	Malo
-Disco duro	237290	Personal	SSI	Regular
-Memoria RAM	1299000	Gaming	SSI	Bueno
-Procesador	325000	Empresarial	SSI	Regular
-Tarjeta madre	20000	Empresarial	LVD	Regular
-Tarjeta grafica	528000	Empresarial	AST	Malo
-Memoria RAM	300000	Personal	AST	Malo
-Disco duro	514200	Personal	SSI	Regular
-Tarjeta grafica	528000	Gaming	XTS	Regular
-Procesador	300000	Empresarial	XTS	Regular
-Memoria RAM	528000	Personal	NER	Regular
-Tarjeta grafica	325000	Personal	LVD	Regular
-Procesador	528000	Personal	XTS	Bueno
-Disco duro	1299000	Personal	XTS	Malo
-Memoria RAM	325000	Personal	XTS	Regular
-Memoria RAM	528000	Gaming	NER	Bueno
-Tarjeta grafica	300000	Personal	NER	Regular
-Memoria RAM	1299000	Personal	LVD	Regular
-Tarjeta madre	325000	Empresarial	NER	Regular
-Disco duro	514200	Empresarial	SSI	Bueno
-Disco duro	237290	Personal	AST	Malo
-Procesador	20000	Empresarial	LVD	Regular
-Memoria RAM	528000	Empresarial	XTS	Regular
-Tarjeta madre	528000	Personal	SSI	Malo
-Tarjeta madre	528000	Empresarial	XTS	Regular
-Memoria RAM	20000	Personal	AST	Malo
-Procesador	20000	Empresarial	SSI	Regular
-Disco duro	514200	Empresarial	XTS	Malo
-Tarjeta grafica	325000	Empresarial	LVD	Bueno
-Procesador	514200	Gaming	AST	Bueno
-Memoria RAM	300000	Gaming	AST	Malo
-Tarjeta grafica	325000	Gaming	AST	Bueno
-Procesador	237290	Gaming	LVD	Bueno
-Procesador	1299000	Gaming	SSI	Bueno
-Disco duro	20000	Empresarial	NER	Malo
-Disco duro	1299000	Gaming	AST	Bueno
-Disco duro	1299000	Personal	NER	Bueno
-Tarjeta madre	528000	Personal	XTS	Malo
-Tarjeta grafica	300000	Personal	SSI	Bueno
-Tarjeta madre	20000	Personal	NER	Malo
-Procesador	325000	Empresarial	LVD	Bueno
-Tarjeta grafica	20000	Gaming	NER	Bueno
-Tarjeta madre	1299000	Empresarial	NER	Bueno
-Disco duro	237290	Personal	SSI	Regular
-Tarjeta madre	528000	Personal	XTS	Malo
-Tarjeta grafica	528000	Empresarial	AST	Bueno
-Disco duro	325000	Gaming	XTS	Bueno
-Disco duro	300000	Empresarial	NER	Bueno
-Tarjeta madre	237290	Gaming	NER	Bueno
-Procesador	20000	Gaming	NER	Regular
-Procesador	237290	Empresarial	NER	Bueno
-Tarjeta madre	237290	Personal	XTS	Regular
-Procesador	528000	Empresarial	AST	Bueno
-Tarjeta madre	300000	Gaming	NER	Malo
-Tarjeta grafica	325000	Personal	AST	Bueno
-Memoria RAM	325000	Gaming	NER	Malo
-Procesador	325000	Personal	XTS	Regular
-Procesador	300000	Empresarial	XTS	Bueno
-Tarjeta madre	514200	Personal	XTS	Regular
-Procesador	528000	Gaming	SSI	Regular
-Procesador	20000	Empresarial	LVD	Bueno
-Memoria RAM	20000	Personal	NER	Regular
-Procesador	237290	Gaming	NER	Malo
-Disco duro	514200	Gaming	LVD	Malo
-Tarjeta madre	300000	Personal	XTS	Bueno
-Tarjeta madre	514200	Gaming	XTS	Bueno
-Disco duro	325000	Personal	AST	Malo
-Disco duro	20000	Gaming	XTS	Bueno
-Memoria RAM	528000	Personal	XTS	Regular
-Tarjeta madre	325000	Gaming	XTS	Regular
-Tarjeta grafica	325000	Gaming	AST	Regular
-Procesador	514200	Empresarial	NER	Malo
-Memoria RAM	1299000	Personal	LVD	Malo
-Tarjeta grafica	514200	Empresarial	AST	Bueno
-Memoria RAM	300000	Gaming	AST	Bueno
-Tarjeta madre	1299000	Gaming	AST	Malo
-Memoria RAM	237290	Empresarial	AST	Regular
-Tarjeta madre	20000	Personal	LVD	Bueno
-Tarjeta grafica	300000	Personal	NER	Regular
-Disco duro	300000	Gaming	NER	Bueno
-Memoria RAM	514200	Empresarial	SSI	Malo
-Tarjeta grafica	20000	Gaming	NER	Bueno
-Procesador	528000	Gaming	AST	Bueno
-Tarjeta madre	325000	Empresarial	XTS	Malo
-Disco duro	528000	Gaming	SSI	Regular
-Procesador	237290	Personal	SSI	Bueno
-Procesador	300000	Empresarial	XTS	Regular
-Disco duro	300000	Personal	SSI	Malo
-Memoria RAM	237290	Empresarial	NER	Regular
-Disco duro	237290	Gaming	XTS	Regular
-Procesador	1299000	Gaming	XTS	Malo
-Tarjeta madre	300000	Personal	XTS	Malo
-Tarjeta grafica	300000	Personal	NER	Regular
-Procesador	528000	Personal	XTS	Malo
-Tarjeta madre	514200	Gaming	LVD	Bueno
-Procesador	325000	Empresarial	SSI	Malo
-Tarjeta grafica	325000	Gaming	SSI	Bueno
-Memoria RAM	20000	Gaming	LVD	Bueno
-Disco duro	237290	Personal	SSI	Malo
-Procesador	20000	Personal	AST	Malo
-Memoria RAM	20000	Gaming	LVD	Malo
-Tarjeta grafica	528000	Gaming	XTS	Malo
-Memoria RAM	300000	Empresarial	AST	Malo
-Memoria RAM	514200	Personal	SSI	Regular
-Memoria RAM	237290	Personal	SSI	Regular
-Memoria RAM	20000	Gaming	SSI	Regular
-Procesador	237290	Gaming	AST	Malo
-Disco duro	1299000	Empresarial	SSI	Regular
-Disco duro	514200	Personal	AST	Regular
-Procesador	1299000	Gaming	NER	Bueno
-Tarjeta grafica	1299000	Gaming	NER	Regular
-Memoria RAM	325000	Gaming	XTS	Regular
-Tarjeta grafica	1299000	Empresarial	NER	Bueno
-Tarjeta grafica	20000	Gaming	NER	Bueno
-Procesador	325000	Personal	NER	Regular
-Disco duro	237290	Personal	SSI	Malo
-Disco duro	20000	Gaming	AST	Bueno
-Procesador	514200	Gaming	SSI	Malo
-Tarjeta grafica	1299000	Personal	AST	Bueno
-Tarjeta grafica	528000	Empresarial	AST	Bueno
-Memoria RAM	528000	Gaming	SSI	Malo
-Tarjeta grafica	237290	Gaming	NER	Bueno
-Disco duro	237290	Gaming	LVD	Malo
-Memoria RAM	237290	Personal	SSI	Malo
-Memoria RAM	237290	Personal	AST	Malo
-Tarjeta grafica	20000	Empresarial	NER	Malo
-Procesador	20000	Empresarial	NER	Bueno
-Tarjeta madre	528000	Gaming	SSI	Malo
-Tarjeta madre	514200	Gaming	AST	Regular
-Disco duro	325000	Empresarial	LVD	Malo
-Disco duro	325000	Personal	SSI	Regular
-Procesador	325000	Empresarial	NER	Malo
-Tarjeta madre	325000	Empresarial	SSI	Malo
-Disco duro	325000	Gaming	NER	Regular
-Procesador	1299000	Empresarial	XTS	Regular
-Procesador	528000	Empresarial	AST	Regular
-Tarjeta madre	528000	Empresarial	AST	Regular
-Tarjeta grafica	237290	Personal	AST	Regular
-Memoria RAM	514200	Empresarial	XTS	Bueno
-Memoria RAM	300000	Empresarial	SSI	Malo
-Tarjeta madre	300000	Empresarial	LVD	Malo
-Memoria RAM	300000	Gaming	LVD	Regular
-Tarjeta grafica	300000	Personal	XTS	Malo
-Tarjeta grafica	300000	Empresarial	XTS	Malo
-Tarjeta madre	325000	Gaming	SSI	Regular
-Tarjeta madre	20000	Gaming	LVD	Bueno
-Tarjeta madre	300000	Empresarial	SSI	Regular
-Tarjeta madre	20000	Empresarial	SSI	Bueno
-Procesador	20000	Gaming	AST	Bueno
-Procesador	1299000	Empresarial	XTS	Bueno
-Procesador	20000	Gaming	LVD	Bueno
-Disco duro	237290	Gaming	XTS	Regular
-Procesador	1299000	Empresarial	SSI	Malo
-Memoria RAM	20000	Personal	XTS	Bueno
-Tarjeta madre	300000	Empresarial	XTS	Bueno
-Memoria RAM	300000	Gaming	SSI	Malo
-Tarjeta grafica	300000	Empresarial	XTS	Regular
-Procesador	325000	Personal	SSI	Regular
-Procesador	237290	Personal	LVD	Bueno
-Procesador	1299000	Empresarial	SSI	Malo
-Tarjeta grafica	514200	Personal	SSI	Malo
-Tarjeta madre	237290	Gaming	AST	Malo
-Procesador	20000	Gaming	AST	Bueno
-Memoria RAM	528000	Gaming	NER	Bueno
-Memoria RAM	1299000	Empresarial	NER	Malo
-Tarjeta grafica	528000	Personal	LVD	Malo
-Tarjeta madre	300000	Personal	SSI	Bueno
-Tarjeta madre	528000	Gaming	LVD	Malo
-Procesador	1299000	Gaming	AST	Regular
-Tarjeta grafica	1299000	Gaming	LVD	Bueno
-Memoria RAM	20000	Personal	SSI	Bueno
-Procesador	528000	Gaming	AST	Regular
-Tarjeta madre	20000	Empresarial	AST	Bueno
-Procesador	325000	Personal	XTS	Bueno
-Memoria RAM	237290	Personal	NER	Bueno
-Procesador	528000	Empresarial	LVD	Bueno
-Memoria RAM	237290	Personal	AST	Malo
-Tarjeta grafica	300000	Personal	NER	Bueno
-Procesador	514200	Gaming	SSI	Bueno
-Tarjeta madre	20000	Empresarial	LVD	Regular
-Memoria RAM	528000	Empresarial	NER	Bueno
-Memoria RAM	300000	Personal	LVD	Bueno
-Memoria RAM	20000	Empresarial	NER	Malo
-Tarjeta madre	237290	Personal	SSI	Regular
-Memoria RAM	528000	Gaming	XTS	Bueno
-Tarjeta grafica	300000	Gaming	AST	Bueno
-Tarjeta grafica	300000	Empresarial	LVD	Regular
-Memoria RAM	1299000	Gaming	XTS	Bueno
-Disco duro	514200	Gaming	AST	Bueno
-Memoria RAM	300000	Empresarial	AST	Regular
-Procesador	20000	Empresarial	SSI	Bueno
-Procesador	20000	Personal	NER	Bueno
-Tarjeta grafica	20000	Empresarial	XTS	Malo
-Disco duro	325000	Gaming	LVD	Malo
-Disco duro	20000	Empresarial	XTS	Bueno
-Procesador	1299000	Gaming	NER	Bueno
-Memoria RAM	300000	Empresarial	NER	Bueno
-Disco duro	528000	Empresarial	NER	Malo
-Memoria RAM	300000	Personal	XTS	Malo
-Disco duro	1299000	Empresarial	LVD	Regular
-Procesador	514200	Gaming	LVD	Regular
-Memoria RAM	237290	Gaming	XTS	Regular
-Memoria RAM	20000	Empresarial	LVD	Malo
-Disco duro	20000	Personal	NER	Malo
-Disco duro	1299000	Gaming	AST	Bueno
-Procesador	1299000	Personal	XTS	Malo
-Tarjeta madre	1299000	Personal	AST	Bueno
-Procesador	300000	Empresarial	AST	Malo
-Tarjeta grafica	1299000	Empresarial	SSI	Regular
-Tarjeta grafica	300000	Empresarial	AST	Regular
-Tarjeta grafica	1299000	Personal	SSI	Regular
-Memoria RAM	528000	Gaming	SSI	Regular
-Tarjeta madre	237290	Empresarial	SSI	Regular
-Memoria RAM	1299000	Gaming	NER	Bueno
-Procesador	514200	Empresarial	LVD	Bueno
-Tarjeta madre	528000	Personal	AST	Regular
-Tarjeta madre	1299000	Personal	XTS	Regular
-Disco duro	300000	Personal	NER	Bueno
-Disco duro	237290	Personal	LVD	Bueno
-Tarjeta grafica	237290	Personal	LVD	Bueno
-Disco duro	237290	Empresarial	SSI	Regular
-Procesador	528000	Empresarial	NER	Malo
-Disco duro	20000	Empresarial	AST	Regular
-Tarjeta madre	300000	Personal	LVD	Bueno
-Tarjeta madre	20000	Empresarial	XTS	Bueno
-Memoria RAM	300000	Gaming	XTS	Malo
-Procesador	1299000	Gaming	NER	Malo
-Disco duro	528000	Empresarial	NER	Bueno
-Tarjeta madre	20000	Gaming	XTS	Bueno
-Tarjeta madre	325000	Personal	XTS	Regular
-Disco duro	1299000	Empresarial	XTS	Malo
-Procesador	300000	Personal	AST	Regular
-Tarjeta madre	300000	Gaming	LVD	Regular
-Tarjeta grafica	300000	Gaming	AST	Malo
-Procesador	528000	Personal	AST	Bueno
-Tarjeta madre	1299000	Gaming	LVD	Bueno
-Disco duro	325000	Personal	LVD	Malo
-Tarjeta madre	20000	Gaming	XTS	Malo
-Tarjeta madre	1299000	Empresarial	AST	Malo
-Disco duro	514200	Empresarial	NER	Malo
-Memoria RAM	20000	Gaming	SSI	Bueno
-Tarjeta grafica	514200	Empresarial	SSI	Regular
-Procesador	300000	Personal	XTS	Regular
-Tarjeta madre	237290	Personal	XTS	Regular
-Disco duro	237290	Gaming	AST	Malo
-Tarjeta grafica	514200	Personal	AST	Bueno
-Disco duro	20000	Gaming	XTS	Bueno
-Tarjeta grafica	1299000	Personal	AST	Bueno
-Tarjeta madre	20000	Empresarial	NER	Malo
-Disco duro	237290	Gaming	SSI	Regular
-Procesador	514200	Gaming	XTS	Malo
-Memoria RAM	514200	Empresarial	XTS	Regular
-Tarjeta grafica	325000	Gaming	NER	Malo
-Tarjeta madre	528000	Gaming	NER	Regular
-Tarjeta madre	1299000	Gaming	SSI	Malo
-Disco duro	300000	Empresarial	NER	Bueno
-Disco duro	528000	Gaming	LVD	Regular
-Disco duro	528000	Empresarial	NER	Bueno
-Tarjeta madre	237290	Gaming	AST	Malo
-Memoria RAM	300000	Personal	LVD	Malo
-Tarjeta madre	20000	Empresarial	NER	Bueno
-Tarjeta madre	325000	Gaming	NER	Bueno
-Memoria RAM	300000	Empresarial	XTS	Regular
-Disco duro	325000	Personal	XTS	Malo
-Memoria RAM	1299000	Personal	LVD	Bueno
-Tarjeta madre	300000	Gaming	AST	Regular
-Tarjeta madre	514200	Empresarial	LVD	Bueno
-Disco duro	300000	Personal	XTS	Bueno
-Tarjeta madre	325000	Gaming	LVD	Malo
-Memoria RAM	514200	Personal	NER	Bueno
-Procesador	20000	Empresarial	AST	Malo
-Tarjeta madre	528000	Personal	LVD	Regular
-Memoria RAM	20000	Empresarial	SSI	Bueno
-Tarjeta madre	300000	Personal	XTS	Bueno
-Memoria RAM	1299000	Gaming	NER	Bueno
-Tarjeta grafica	1299000	Empresarial	SSI	Bueno
-Memoria RAM	20000	Personal	XTS	Malo
-Disco duro	1299000	Empresarial	AST	Bueno
-Procesador	514200	Gaming	XTS	Bueno
-Tarjeta grafica	300000	Personal	NER	Regular
-Procesador	1299000	Personal	AST	Malo
-Tarjeta madre	528000	Personal	XTS	Bueno
-Memoria RAM	514200	Gaming	SSI	Malo
-Tarjeta grafica	237290	Empresarial	XTS	Bueno
-Memoria RAM	1299000	Gaming	SSI	Malo
-Tarjeta madre	514200	Personal	AST	Regular
-Disco duro	514200	Empresarial	LVD	Malo
-Procesador	528000	Personal	LVD	Bueno
-Memoria RAM	325000	Personal	NER	Regular
-Tarjeta madre	20000	Empresarial	NER	Bueno
-Tarjeta grafica	237290	Gaming	AST	Malo
-Tarjeta grafica	20000	Gaming	AST	Regular
-Procesador	237290	Gaming	SSI	Regular
-Tarjeta grafica	1299000	Empresarial	XTS	Malo
-Tarjeta grafica	237290	Empresarial	SSI	Regular
-Disco duro	237290	Gaming	NER	Bueno
-Disco duro	300000	Personal	LVD	Bueno
-Tarjeta grafica	325000	Personal	LVD	Regular
-Procesador	325000	Gaming	SSI	Bueno
-Tarjeta madre	237290	Personal	AST	Bueno
-Memoria RAM	1299000	Personal	SSI	Regular
-Memoria RAM	1299000	Gaming	NER	Regular
-Disco duro	237290	Gaming	SSI	Regular
-Procesador	20000	Empresarial	AST	Malo
-Memoria RAM	20000	Personal	SSI	Regular
-Tarjeta grafica	528000	Empresarial	SSI	Regular
-Tarjeta madre	20000	Personal	SSI	Regular
-Procesador	528000	Empresarial	SSI	Regular
-Disco duro	20000	Empresarial	SSI	Malo
-Memoria RAM	300000	Personal	XTS	Regular
-Disco duro	20000	Gaming	XTS	Regular
-Disco duro	528000	Gaming	NER	Malo
-Disco duro	1299000	Empresarial	AST	Malo
-Tarjeta madre	514200	Empresarial	LVD	Malo
-Disco duro	20000	Gaming	AST	Malo
-Disco duro	514200	Gaming	LVD	Bueno
-Disco duro	300000	Gaming	AST	Bueno
-Tarjeta grafica	237290	Empresarial	NER	Malo
-Tarjeta madre	1299000	Gaming	SSI	Regular
-Procesador	237290	Gaming	AST	Malo
-Tarjeta grafica	300000	Empresarial	SSI	Malo
-Disco duro	20000	Empresarial	AST	Bueno
-Tarjeta madre	1299000	Personal	SSI	Bueno
-Procesador	1299000	Personal	LVD	Bueno
-Tarjeta madre	20000	Gaming	NER	Malo
-Memoria RAM	300000	Empresarial	SSI	Bueno
-Memoria RAM	325000	Empresarial	AST	Malo
-Tarjeta madre	514200	Gaming	NER	Bueno
-Memoria RAM	300000	Gaming	LVD	Regular
-Memoria RAM	20000	Gaming	NER	Bueno
-Disco duro	325000	Empresarial	SSI	Regular
-Memoria RAM	300000	Personal	NER	Malo
-Tarjeta grafica	1299000	Personal	LVD	Malo
-Disco duro	514200	Empresarial	XTS	Bueno
-Procesador	1299000	Empresarial	AST	Malo
-Procesador	20000	Gaming	SSI	Bueno
-Memoria RAM	325000	Personal	SSI	Malo
-Procesador	528000	Personal	SSI	Malo
-Disco duro	1299000	Personal	LVD	Bueno
-Tarjeta madre	528000	Gaming	SSI	Regular
-Tarjeta grafica	20000	Personal	SSI	Regular
-Procesador	300000	Personal	NER	Bueno
-Tarjeta madre	20000	Gaming	SSI	Malo
-Disco duro	20000	Empresarial	NER	Malo
-Memoria RAM	300000	Gaming	LVD	Regular
-Procesador	514200	Gaming	SSI	Bueno
-Procesador	1299000	Gaming	SSI	Malo
-Tarjeta grafica	528000	Empresarial	LVD	Malo
-Tarjeta madre	514200	Personal	AST	Regular
-Memoria RAM	528000	Empresarial	XTS	Bueno
-Tarjeta grafica	20000	Gaming	XTS	Malo
-Disco duro	20000	Gaming	NER	Regular
-Memoria RAM	1299000	Empresarial	SSI	Malo
-Memoria RAM	1299000	Personal	LVD	Malo
-Memoria RAM	514200	Gaming	SSI	Bueno
-Disco duro	1299000	Personal	NER	Bueno
-Tarjeta grafica	514200	Empresarial	XTS	Bueno
-Tarjeta madre	300000	Gaming	LVD	Regular
-Memoria RAM	528000	Personal	NER	Bueno
-Memoria RAM	325000	Empresarial	LVD	Bueno
-Memoria RAM	20000	Gaming	AST	Regular
-Procesador	237290	Personal	LVD	Malo
-Disco duro	325000	Empresarial	LVD	Bueno
-Procesador	237290	Personal	AST	Bueno
-Disco duro	514200	Gaming	SSI	Regular
-Tarjeta grafica	20000	Gaming	XTS	Malo
-Tarjeta grafica	300000	Empresarial	LVD	Regular
-Tarjeta madre	514200	Empresarial	XTS	Malo
-Tarjeta madre	237290	Gaming	AST	Regular
-Disco duro	325000	Empresarial	SSI	Regular
-Memoria RAM	325000	Empresarial	NER	Regular
-Procesador	20000	Personal	NER	Malo
-Memoria RAM	300000	Empresarial	SSI	Malo
-Disco duro	514200	Gaming	AST	Malo
-Disco duro	1299000	Personal	LVD	Malo
-Tarjeta grafica	514200	Personal	NER	Regular
-Procesador	325000	Personal	XTS	Malo
-Disco duro	528000	Personal	AST	Malo
-Memoria RAM	237290	Personal	LVD	Regular
-Disco duro	514200	Gaming	LVD	Regular
-Disco duro	514200	Empresarial	AST	Bueno
-Procesador	237290	Empresarial	SSI	Regular
-Procesador	237290	Empresarial	AST	Malo
-Tarjeta grafica	300000	Gaming	SSI	Malo
-Memoria RAM	514200	Empresarial	AST	Bueno
-Procesador	514200	Personal	LVD	Malo
-Tarjeta grafica	325000	Personal	AST	Malo
-Tarjeta madre	528000	Gaming	LVD	Bueno
-Tarjeta madre	528000	Gaming	LVD	Regular
-Procesador	514200	Gaming	XTS	Malo
-Memoria RAM	325000	Personal	LVD	Regular
-Disco duro	237290	Empresarial	SSI	Bueno
-Tarjeta madre	20000	Gaming	SSI	Regular
-Memoria RAM	514200	Empresarial	SSI	Malo
-Memoria RAM	300000	Personal	LVD	Malo
-Tarjeta grafica	237290	Personal	AST	Regular
-Disco duro	528000	Gaming	LVD	Regular
-Memoria RAM	20000	Gaming	XTS	Bueno
-Memoria RAM	20000	Gaming	NER	Bueno
-Tarjeta grafica	300000	Personal	SSI	Regular
-Disco duro	237290	Gaming	LVD	Regular
-Disco duro	300000	Empresarial	SSI	Malo
-Tarjeta grafica	528000	Personal	XTS	Malo
-Memoria RAM	514200	Personal	NER	Regular
-Tarjeta madre	325000	Empresarial	SSI	Malo
-Tarjeta madre	20000	Gaming	NER	Bueno
-Tarjeta grafica	20000	Empresarial	SSI	Bueno
-Tarjeta madre	528000	Gaming	XTS	Bueno
-Tarjeta madre	528000	Personal	LVD	Bueno
-Tarjeta madre	514200	Personal	LVD	Regular
-Disco duro	300000	Personal	AST	Malo
-Disco duro	300000	Personal	NER	Malo
-Disco duro	237290	Personal	NER	Malo
-Tarjeta madre	237290	Empresarial	NER	Regular
-Memoria RAM	20000	Personal	AST	Bueno
-Tarjeta madre	20000	Empresarial	XTS	Bueno
-Tarjeta madre	20000	Gaming	SSI	Regular
-Procesador	514200	Gaming	LVD	Malo
-Procesador	1299000	Empresarial	NER	Malo
-Procesador	528000	Personal	SSI	Regular
-Memoria RAM	528000	Personal	SSI	Bueno
-Tarjeta grafica	300000	Personal	LVD	Regular
-Disco duro	528000	Personal	XTS	Regular
-Procesador	514200	Personal	AST	Bueno
-Disco duro	1299000	Empresarial	NER	Malo
-Memoria RAM	325000	Empresarial	NER	Regular
-Memoria RAM	514200	Gaming	SSI	Regular
-Memoria RAM	514200	Personal	NER	Regular
-Tarjeta grafica	300000	Gaming	XTS	Bueno
-Procesador	300000	Personal	AST	Malo
-Memoria RAM	1299000	Empresarial	SSI	Malo
-Tarjeta madre	20000	Gaming	AST	Bueno
-Tarjeta grafica	514200	Personal	LVD	Bueno
-Memoria RAM	237290	Personal	AST	Bueno
-Tarjeta madre	528000	Empresarial	XTS	Bueno
-Procesador	20000	Empresarial	LVD	Bueno
-Tarjeta grafica	237290	Empresarial	SSI	Bueno
-Memoria RAM	20000	Empresarial	LVD	Regular
-Tarjeta madre	300000	Gaming	LVD	Bueno
-Procesador	237290	Gaming	NER	Bueno
-Tarjeta grafica	514200	Personal	NER	Regular
-Tarjeta grafica	1299000	Empresarial	AST	Bueno
-Procesador	325000	Gaming	XTS	Malo
-Tarjeta grafica	1299000	Empresarial	AST	Regular
-Disco duro	20000	Gaming	LVD	Bueno
-Tarjeta grafica	20000	Personal	LVD	Malo
-Disco duro	237290	Empresarial	XTS	Malo
-Memoria RAM	1299000	Empresarial	XTS	Regular
-Procesador	1299000	Personal	SSI	Regular
-Tarjeta madre	514200	Gaming	XTS	Malo
-Procesador	237290	Personal	LVD	Malo
-Tarjeta grafica	20000	Empresarial	LVD	Malo
-Procesador	20000	Empresarial	SSI	Bueno
-Tarjeta grafica	20000	Personal	LVD	Malo
-Memoria RAM	237290	Empresarial	AST	Malo
-Tarjeta grafica	20000	Personal	NER	Bueno
-Memoria RAM	325000	Gaming	LVD	Malo
-Procesador	300000	Empresarial	NER	Bueno
-Tarjeta madre	325000	Empresarial	SSI	Regular
-Disco duro	528000	Gaming	AST	Regular
-Tarjeta madre	237290	Personal	AST	Malo
-Procesador	1299000	Gaming	NER	Malo
-Memoria RAM	300000	Personal	AST	Regular
-Tarjeta grafica	514200	Empresarial	NER	Bueno
-Disco duro	20000	Empresarial	SSI	Malo
-Memoria RAM	1299000	Gaming	LVD	Bueno
-Procesador	528000	Empresarial	LVD	Malo
-Memoria RAM	237290	Gaming	SSI	Bueno
-Disco duro	300000	Personal	SSI	Regular
-Memoria RAM	514200	Empresarial	LVD	Bueno
-Memoria RAM	300000	Gaming	LVD	Regular
-Memoria RAM	20000	Gaming	LVD	Malo
-Procesador	237290	Gaming	NER	Regular
-Memoria RAM	528000	Personal	AST	Bueno
-Procesador	1299000	Personal	NER	Regular
-Procesador	325000	Personal	XTS	Regular
-Disco duro	300000	Gaming	AST	Regular
-Memoria RAM	1299000	Gaming	SSI	Bueno
-Memoria RAM	325000	Personal	XTS	Regular
-Tarjeta grafica	237290	Personal	AST	Bueno
-Tarjeta grafica	514200	Empresarial	XTS	Bueno
-Procesador	20000	Empresarial	LVD	Regular
-Procesador	237290	Empresarial	LVD	Regular
-Disco duro	1299000	Gaming	LVD	Regular
-Disco duro	325000	Empresarial	LVD	Bueno
-Tarjeta madre	1299000	Gaming	XTS	Bueno
-Procesador	20000	Gaming	XTS	Bueno
-Disco duro	325000	Empresarial	LVD	Malo
-Tarjeta grafica	528000	Personal	LVD	Bueno
-Tarjeta grafica	1299000	Gaming	SSI	Malo
-Procesador	237290	Empresarial	AST	Regular
-Tarjeta grafica	237290	Personal	SSI	Bueno
-Tarjeta grafica	528000	Empresarial	AST	Malo
-Memoria RAM	325000	Personal	AST	Bueno
-Tarjeta grafica	528000	Personal	LVD	Bueno
-Memoria RAM	237290	Empresarial	NER	Regular
-Memoria RAM	514200	Gaming	AST	Bueno
-Tarjeta madre	237290	Empresarial	SSI	Regular
-Procesador	237290	Personal	SSI	Regular
-Memoria RAM	20000	Personal	LVD	Bueno
-Tarjeta madre	325000	Empresarial	SSI	Regular
-Tarjeta grafica	1299000	Gaming	SSI	Bueno
-Memoria RAM	1299000	Personal	AST	Regular
-Tarjeta madre	237290	Personal	AST	Bueno
-Procesador	514200	Gaming	AST	Malo
-Memoria RAM	514200	Personal	XTS	Malo
-Tarjeta grafica	514200	Personal	NER	Regular
-Procesador	1299000	Gaming	XTS	Malo
-Disco duro	514200	Personal	NER	Bueno
-Procesador	325000	Gaming	NER	Malo
-Tarjeta madre	514200	Gaming	XTS	Regular
-Procesador	1299000	Personal	SSI	Regular
-Memoria RAM	20000	Empresarial	LVD	Malo
-Disco duro	237290	Personal	NER	Regular
-Procesador	300000	Gaming	AST	Malo
-Disco duro	20000	Empresarial	LVD	Bueno
-Tarjeta grafica	20000	Gaming	NER	Bueno
-Disco duro	300000	Gaming	AST	Malo
-Disco duro	325000	Gaming	XTS	Bueno
-Tarjeta grafica	514200	Gaming	AST	Regular
-Disco duro	514200	Personal	SSI	Bueno
-Disco duro	20000	Personal	AST	Regular
-Tarjeta madre	1299000	Empresarial	LVD	Regular
-Tarjeta madre	514200	Gaming	LVD	Regular
-Tarjeta grafica	20000	Personal	SSI	Regular
-Memoria RAM	237290	Personal	AST	Bueno
-Tarjeta madre	325000	Personal	NER	Regular
-Tarjeta grafica	325000	Empresarial	LVD	Malo
-Procesador	528000	Gaming	XTS	Bueno
-Memoria RAM	325000	Empresarial	AST	Malo
-Disco duro	20000	Gaming	LVD	Regular
-Tarjeta madre	20000	Gaming	XTS	Regular
-Tarjeta madre	528000	Empresarial	AST	Regular
-Tarjeta madre	514200	Personal	XTS	Regular
-Tarjeta madre	514200	Empresarial	XTS	Regular
-Tarjeta grafica	325000	Gaming	SSI	Regular
-Disco duro	20000	Gaming	LVD	Bueno
-Disco duro	237290	Gaming	LVD	Bueno
-Memoria RAM	325000	Personal	SSI	Bueno
-Disco duro	1299000	Personal	XTS	Regular
-Disco duro	300000	Empresarial	SSI	Regular
-Tarjeta madre	528000	Personal	NER	Malo
-Disco duro	1299000	Empresarial	SSI	Bueno
-Tarjeta madre	325000	Gaming	LVD	Regular
-Procesador	237290	Gaming	SSI	Regular
-Memoria RAM	528000	Empresarial	LVD	Regular
-Procesador	1299000	Gaming	NER	Regular
-Memoria RAM	237290	Gaming	SSI	Regular
-Disco duro	325000	Personal	SSI	Regular
-Procesador	528000	Gaming	NER	Regular
-Tarjeta grafica	300000	Gaming	AST	Malo
-Disco duro	20000	Gaming	NER	Regular
-Tarjeta madre	237290	Personal	AST	Bueno
-Tarjeta madre	300000	Personal	SSI	Bueno
-Tarjeta madre	20000	Empresarial	XTS	Bueno
-Procesador	325000	Gaming	XTS	Bueno
-Tarjeta madre	514200	Empresarial	AST	Bueno
-Disco duro	237290	Empresarial	SSI	Regular
-Tarjeta grafica	237290	Empresarial	NER	Bueno
-Procesador	20000	Gaming	AST	Regular
-Tarjeta madre	237290	Empresarial	AST	Malo
-Tarjeta madre	300000	Empresarial	SSI	Malo
-Memoria RAM	20000	Empresarial	SSI	Malo
-Tarjeta grafica	237290	Personal	AST	Malo
-Disco duro	20000	Empresarial	AST	Bueno
-Procesador	1299000	Personal	SSI	Malo
-Tarjeta grafica	514200	Personal	LVD	Regular
-Tarjeta grafica	514200	Empresarial	XTS	Regular
-Tarjeta grafica	528000	Gaming	XTS	Bueno
-Procesador	514200	Personal	AST	Regular
-Memoria RAM	514200	Gaming	AST	Malo
-Tarjeta madre	528000	Gaming	LVD	Regular
-Tarjeta madre	300000	Gaming	AST	Bueno
-Tarjeta grafica	1299000	Empresarial	SSI	Regular
-Disco duro	325000	Gaming	LVD	Bueno
-Tarjeta madre	300000	Gaming	LVD	Malo
-Tarjeta grafica	300000	Personal	XTS	Bueno
-Memoria RAM	1299000	Gaming	LVD	Malo
-Procesador	528000	Gaming	AST	Malo
-Procesador	528000	Gaming	XTS	Malo
-Tarjeta grafica	325000	Personal	NER	Malo
-Memoria RAM	528000	Gaming	LVD	Malo
-Tarjeta grafica	237290	Personal	XTS	Malo
-Disco duro	237290	Gaming	AST	Regular
-Tarjeta grafica	1299000	Empresarial	LVD	Bueno
-Disco duro	237290	Personal	LVD	Malo
-Tarjeta madre	514200	Personal	SSI	Regular
-Tarjeta madre	514200	Empresarial	SSI	Malo
-Memoria RAM	1299000	Personal	AST	Regular
-Procesador	300000	Gaming	SSI	Malo
-Tarjeta grafica	1299000	Gaming	AST	Bueno
-Disco duro	1299000	Personal	SSI	Malo
-Tarjeta madre	528000	Empresarial	SSI	Regular
-Disco duro	20000	Gaming	LVD	Regular
-Memoria RAM	300000	Personal	AST	Malo
-Disco duro	528000	Gaming	SSI	Malo
-Disco duro	514200	Personal	LVD	Bueno
-Disco duro	20000	Gaming	NER	Malo
-Tarjeta grafica	237290	Gaming	NER	Malo
-Procesador	300000	Empresarial	AST	Bueno
-Tarjeta madre	20000	Gaming	AST	Regular
-Disco duro	528000	Personal	AST	Regular
-Procesador	528000	Personal	LVD	Malo
-Tarjeta grafica	1299000	Personal	XTS	Regular
-Memoria RAM	528000	Gaming	AST	Bueno
-Memoria RAM	528000	Personal	LVD	Bueno
-Tarjeta grafica	514200	Gaming	LVD	Bueno
-Procesador	514200	Empresarial	SSI	Malo
-Tarjeta madre	514200	Gaming	NER	Bueno
-Tarjeta madre	514200	Gaming	AST	Regular
-Disco duro	325000	Personal	NER	Malo
-Procesador	300000	Empresarial	AST	Malo
-Disco duro	325000	Gaming	NER	Bueno
-Tarjeta madre	325000	Empresarial	XTS	Bueno
-Memoria RAM	237290	Empresarial	XTS	Malo
-Tarjeta grafica	20000	Empresarial	AST	Malo
-Procesador	1299000	Gaming	SSI	Malo
-Procesador	20000	Personal	NER	Regular
-Procesador	20000	Gaming	AST	Malo
-Disco duro	300000	Empresarial	LVD	Regular
-Tarjeta madre	1299000	Personal	XTS	Regular
-Tarjeta grafica	237290	Empresarial	XTS	Bueno
-Disco duro	237290	Empresarial	LVD	Bueno
-Tarjeta grafica	514200	Empresarial	SSI	Regular
-Memoria RAM	300000	Gaming	XTS	Regular
-Tarjeta grafica	528000	Empresarial	XTS	Regular
-Disco duro	300000	Gaming	XTS	Regular
-Procesador	514200	Empresarial	XTS	Regular
-Memoria RAM	514200	Gaming	XTS	Bueno
-Tarjeta madre	237290	Empresarial	XTS	Bueno
-Procesador	528000	Gaming	AST	Bueno
-Memoria RAM	300000	Personal	NER	Regular
-Tarjeta madre	528000	Gaming	NER	Malo
-Disco duro	325000	Personal	AST	Bueno
-Tarjeta grafica	20000	Gaming	AST	Malo
-Procesador	528000	Empresarial	XTS	Malo
-Disco duro	300000	Empresarial	NER	Malo
-Disco duro	20000	Personal	NER	Bueno
-Tarjeta madre	325000	Gaming	XTS	Regular
-Disco duro	237290	Personal	NER	Bueno
-Tarjeta madre	514200	Gaming	AST	Regular
-Tarjeta madre	237290	Personal	XTS	Regular
-Tarjeta madre	528000	Gaming	LVD	Bueno
-Memoria RAM	514200	Empresarial	AST	Malo
-Procesador	20000	Gaming	XTS	Malo
-Memoria RAM	1299000	Personal	XTS	Bueno
-Memoria RAM	1299000	Empresarial	NER	Bueno
-Tarjeta madre	325000	Gaming	LVD	Regular
-Memoria RAM	528000	Empresarial	NER	Regular
-Disco duro	514200	Gaming	XTS	Bueno
-Procesador	325000	Gaming	LVD	Malo
-Tarjeta madre	20000	Empresarial	LVD	Malo
-Tarjeta grafica	300000	Personal	NER	Malo
-Disco duro	237290	Empresarial	AST	Malo
-Tarjeta grafica	237290	Gaming	NER	Regular
-Tarjeta grafica	300000	Empresarial	NER	Malo
-Disco duro	514200	Personal	LVD	Malo
-Procesador	237290	Empresarial	AST	Bueno
-Memoria RAM	20000	Gaming	NER	Regular
-Tarjeta grafica	300000	Personal	SSI	Malo
-Memoria RAM	1299000	Empresarial	XTS	Bueno
-Procesador	514200	Personal	AST	Bueno
-Memoria RAM	325000	Gaming	AST	Malo
-Tarjeta madre	237290	Empresarial	XTS	Malo
-Memoria RAM	1299000	Empresarial	AST	Malo
-Tarjeta grafica	300000	Gaming	SSI	Regular
-Tarjeta madre	237290	Gaming	NER	Malo
-Disco duro	20000	Personal	NER	Bueno
-Tarjeta madre	300000	Personal	NER	Regular
-Procesador	325000	Empresarial	LVD	Regular
-Disco duro	1299000	Gaming	XTS	Malo
-Disco duro	528000	Empresarial	AST	Malo
-Tarjeta madre	528000	Gaming	XTS	Malo
-Tarjeta madre	300000	Empresarial	NER	Malo
-Disco duro	300000	Personal	LVD	Bueno
-Procesador	325000	Gaming	NER	Regular
-Procesador	237290	Gaming	XTS	Bueno
-Memoria RAM	20000	Empresarial	NER	Malo
-Memoria RAM	514200	Gaming	SSI	Regular
-Tarjeta grafica	300000	Personal	XTS	Regular
-Disco duro	528000	Gaming	SSI	Regular
-Disco duro	1299000	Empresarial	SSI	Bueno
-Memoria RAM	325000	Empresarial	LVD	Regular
-Tarjeta madre	20000	Personal	AST	Bueno
-Memoria RAM	514200	Personal	LVD	Malo
-Tarjeta madre	514200	Personal	LVD	Bueno
-Tarjeta grafica	300000	Empresarial	SSI	Regular
-Procesador	300000	Gaming	SSI	Malo
-Memoria RAM	300000	Empresarial	NER	Regular
-Tarjeta grafica	528000	Personal	XTS	Malo
-Disco duro	300000	Personal	SSI	Malo
-Disco duro	514200	Empresarial	NER	Bueno
-Memoria RAM	325000	Empresarial	NER	Regular
-Tarjeta grafica	300000	Gaming	AST	Bueno
-Disco duro	237290	Empresarial	LVD	Regular
-Procesador	514200	Gaming	XTS	Malo
-Procesador	237290	Personal	AST	Regular
-Tarjeta madre	237290	Gaming	AST	Regular
-Procesador	325000	Personal	NER	Malo
-Tarjeta grafica	325000	Gaming	XTS	Malo
-Tarjeta grafica	237290	Empresarial	NER	Malo
-Memoria RAM	1299000	Gaming	SSI	Bueno
-Tarjeta grafica	300000	Empresarial	NER	Malo
-Disco duro	325000	Personal	SSI	Malo
-Memoria RAM	1299000	Personal	SSI	Malo
-Tarjeta madre	514200	Personal	LVD	Bueno
-Procesador	1299000	Gaming	XTS	Bueno
-Tarjeta grafica	514200	Empresarial	AST	Bueno
-Tarjeta grafica	1299000	Gaming	SSI	Bueno
-Memoria RAM	528000	Personal	LVD	Bueno
-Procesador	1299000	Personal	AST	Malo
-Disco duro	237290	Personal	NER	Malo
-Memoria RAM	300000	Gaming	SSI	Regular
-Procesador	528000	Personal	XTS	Regular
-Procesador	514200	Empresarial	NER	Malo
-Tarjeta grafica	514200	Empresarial	SSI	Malo
-Procesador	1299000	Empresarial	NER	Malo
-Tarjeta grafica	528000	Gaming	LVD	Malo
-Memoria RAM	514200	Gaming	SSI	Bueno
-Tarjeta grafica	528000	Gaming	XTS	Regular
-Memoria RAM	1299000	Gaming	AST	Malo
-Tarjeta madre	20000	Gaming	AST	Regular
-Memoria RAM	20000	Personal	SSI	Regular
-Tarjeta madre	20000	Personal	NER	Regular
-Procesador	20000	Personal	AST	Regular
-Tarjeta grafica	237290	Empresarial	LVD	Bueno
-Procesador	528000	Personal	LVD	Regular
-Procesador	1299000	Gaming	AST	Regular
-Tarjeta grafica	237290	Personal	NER	Bueno
-Memoria RAM	300000	Empresarial	NER	Bueno
-Tarjeta madre	528000	Personal	LVD	Malo
-Memoria RAM	325000	Gaming	LVD	Bueno
-Memoria RAM	325000	Personal	SSI	Bueno
-Tarjeta madre	514200	Gaming	SSI	Bueno
-Memoria RAM	514200	Empresarial	NER	Regular
-Memoria RAM	20000	Personal	XTS	Regular
-Tarjeta madre	325000	Empresarial	XTS	Malo
-Disco duro	528000	Gaming	NER	Bueno
-Procesador	528000	Gaming	NER	Regular
-Disco duro	325000	Gaming	AST	Regular
-Disco duro	300000	Empresarial	SSI	Regular
-Memoria RAM	325000	Personal	AST	Malo
-Memoria RAM	325000	Empresarial	NER	Bueno
-Tarjeta grafica	325000	Personal	LVD	Bueno
-Tarjeta madre	514200	Gaming	SSI	Bueno
-Tarjeta grafica	1299000	Personal	LVD	Bueno
-Tarjeta madre	528000	Gaming	SSI	Bueno
-Procesador	1299000	Personal	XTS	Bueno
-Tarjeta madre	514200	Gaming	SSI	Malo
-Disco duro	528000	Empresarial	NER	Regular
-Disco duro	20000	Personal	AST	Bueno
-Memoria RAM	1299000	Personal	LVD	Malo
-Disco duro	514200	Personal	SSI	Malo
-Disco duro	528000	Gaming	AST	Malo
-Procesador	514200	Gaming	AST	Bueno
-Tarjeta grafica	300000	Gaming	NER	Malo
-Disco duro	237290	Gaming	LVD	Bueno
-Procesador	237290	Personal	NER	Regular
-Procesador	514200	Personal	SSI	Bueno
-Tarjeta grafica	300000	Empresarial	NER	Regular
-Procesador	237290	Empresarial	AST	Regular
-Procesador	20000	Gaming	SSI	Malo
-Tarjeta madre	528000	Personal	AST	Bueno
-Procesador	514200	Empresarial	SSI	Bueno
-Procesador	325000	Gaming	XTS	Bueno
-Procesador	325000	Empresarial	NER	Malo
-Tarjeta madre	514200	Personal	NER	Regular
-Disco duro	528000	Gaming	AST	Malo
-Memoria RAM	237290	Empresarial	AST	Bueno
-Tarjeta madre	300000	Gaming	LVD	Bueno
-Memoria RAM	20000	Personal	NER	Malo
-Procesador	528000	Personal	LVD	Malo
-Procesador	325000	Empresarial	SSI	Bueno
-Disco duro	514200	Gaming	AST	Bueno
-Memoria RAM	528000	Empresarial	XTS	Malo
-Memoria RAM	528000	Empresarial	AST	Regular
-Procesador	300000	Gaming	NER	Bueno
-Tarjeta grafica	325000	Personal	XTS	Bueno
-Tarjeta grafica	237290	Personal	NER	Malo
-Memoria RAM	1299000	Empresarial	SSI	Malo
-Memoria RAM	514200	Empresarial	SSI	Regular
-Procesador	237290	Gaming	XTS	Regular
-Disco duro	237290	Empresarial	NER	Regular
-Tarjeta madre	1299000	Gaming	SSI	Regular
-Disco duro	237290	Empresarial	SSI	Malo
-Memoria RAM	300000	Empresarial	SSI	Malo
-Memoria RAM	1299000	Personal	NER	Malo
-Tarjeta grafica	528000	Empresarial	NER	Regular
-Tarjeta madre	1299000	Gaming	XTS	Bueno
-Procesador	514200	Gaming	AST	Bueno
-Memoria RAM	514200	Empresarial	SSI	Malo
-Disco duro	528000	Empresarial	SSI	Bueno
-Tarjeta madre	1299000	Empresarial	XTS	Regular
-Procesador	1299000	Personal	LVD	Malo
-Procesador	237290	Personal	NER	Regular
-Disco duro	514200	Gaming	SSI	Regular
-Disco duro	325000	Gaming	XTS	Regular
-Memoria RAM	237290	Gaming	SSI	Regular
-Procesador	325000	Gaming	SSI	Malo
-Memoria RAM	528000	Empresarial	XTS	Malo
-Memoria RAM	300000	Empresarial	LVD	Malo
-Procesador	20000	Gaming	AST	Regular
-Disco duro	1299000	Gaming	LVD	Regular
-Procesador	528000	Personal	SSI	Regular
-Tarjeta madre	528000	Gaming	AST	Regular
-Disco duro	514200	Personal	LVD	Regular
-Memoria RAM	528000	Personal	AST	Bueno
-Disco duro	514200	Personal	NER	Regular
-Tarjeta grafica	237290	Gaming	LVD	Malo
+Memoria RAM;325000;Empresarial;NER;Bueno
+Memoria RAM;528000;Gaming;XTS;Malo
+Tarjeta grafica;514200;Empresarial;SSI;Bueno
+Tarjeta madre;1299000;Empresarial;XTS;Bueno
+Tarjeta grafica;514200;Gaming;NER;Regular
+Memoria RAM;237290;Gaming;NER;Malo
+Procesador;237290;Personal;XTS;Bueno
+Memoria RAM;20000;Personal;NER;Bueno
+Tarjeta grafica;514200;Gaming;AST;Bueno
+Disco duro;20000;Personal;AST;Regular
+Disco duro;514200;Gaming;LVD;Malo
+Procesador;237290;Gaming;XTS;Regular
+Disco duro;1299000;Personal;SSI;Malo
+Disco duro;300000;Gaming;XTS;Regular
+Disco duro;514200;Gaming;AST;Regular
+Tarjeta madre;237290;Gaming;XTS;Malo
+Tarjeta madre;325000;Personal;SSI;Bueno
+Procesador;20000;Gaming;XTS;Malo
+Tarjeta madre;528000;Personal;LVD;Bueno
+Tarjeta grafica;1299000;Empresarial;XTS;Malo
+Tarjeta madre;1299000;Gaming;AST;Regular
+Procesador;20000;Personal;XTS;Bueno
+Procesador;300000;Personal;AST;Bueno
+Tarjeta grafica;300000;Personal;XTS;Malo
+Disco duro;1299000;Empresarial;AST;Bueno
+Disco duro;1299000;Gaming;XTS;Regular
+Disco duro;514200;Empresarial;NER;Malo
+Memoria RAM;20000;Personal;XTS;Regular
+Disco duro;514200;Empresarial;NER;Malo
+Procesador;1299000;Personal;NER;Malo
+Tarjeta madre;514200;Personal;XTS;Malo
+Memoria RAM;300000;Empresarial;SSI;Malo
+Memoria RAM;300000;Empresarial;NER;Malo
+Memoria RAM;528000;Empresarial;AST;Malo
+Tarjeta grafica;1299000;Gaming;AST;Malo
+Tarjeta grafica;528000;Personal;AST;Malo
+Memoria RAM;237290;Gaming;AST;Malo
+Tarjeta madre;20000;Gaming;XTS;Bueno
+Memoria RAM;237290;Empresarial;NER;Malo
+Tarjeta grafica;325000;Personal;XTS;Regular
+Tarjeta madre;1299000;Empresarial;SSI;Regular
+Memoria RAM;1299000;Gaming;NER;Malo
+Memoria RAM;1299000;Empresarial;XTS;Regular
+Tarjeta grafica;20000;Empresarial;LVD;Regular
+Memoria RAM;1299000;Empresarial;NER;Bueno
+Disco duro;528000;Gaming;XTS;Bueno
+Memoria RAM;528000;Gaming;LVD;Bueno
+Tarjeta grafica;300000;Gaming;SSI;Bueno
+Tarjeta grafica;528000;Empresarial;LVD;Malo
+Memoria RAM;528000;Gaming;SSI;Regular
+Memoria RAM;528000;Empresarial;NER;Regular
+Memoria RAM;237290;Empresarial;SSI;Regular
+Tarjeta madre;1299000;Personal;LVD;Bueno
+Tarjeta madre;325000;Empresarial;NER;Malo
+Disco duro;20000;Personal;NER;Regular
+Disco duro;237290;Gaming;AST;Malo
+Disco duro;237290;Personal;XTS;Bueno
+Memoria RAM;20000;Empresarial;XTS;Bueno
+Disco duro;514200;Personal;NER;Regular
+Tarjeta grafica;20000;Personal;XTS;Bueno
+Tarjeta grafica;300000;Empresarial;XTS;Malo
+Disco duro;20000;Empresarial;XTS;Bueno
+Tarjeta madre;1299000;Gaming;XTS;Bueno
+Disco duro;325000;Empresarial;AST;Malo
+Procesador;514200;Gaming;NER;Bueno
+Memoria RAM;1299000;Personal;SSI;Regular
+Tarjeta madre;237290;Empresarial;XTS;Malo
+Disco duro;514200;Gaming;SSI;Malo
+Procesador;325000;Gaming;SSI;Regular
+Tarjeta grafica;1299000;Empresarial;LVD;Regular
+Memoria RAM;1299000;Personal;LVD;Regular
+Tarjeta grafica;237290;Empresarial;NER;Bueno
+Tarjeta grafica;300000;Empresarial;XTS;Bueno
+Disco duro;1299000;Empresarial;XTS;Bueno
+Memoria RAM;514200;Empresarial;XTS;Malo
+Procesador;1299000;Gaming;NER;Regular
+Procesador;325000;Empresarial;XTS;Malo
+Memoria RAM;528000;Empresarial;LVD;Malo
+Tarjeta grafica;528000;Empresarial;SSI;Malo
+Disco duro;514200;Empresarial;SSI;Malo
+Memoria RAM;237290;Gaming;AST;Malo
+Procesador;300000;Personal;AST;Regular
+Tarjeta grafica;20000;Empresarial;NER;Malo
+Tarjeta madre;237290;Gaming;SSI;Malo
+Disco duro;300000;Gaming;SSI;Bueno
+Tarjeta grafica;20000;Personal;NER;Bueno
+Procesador;237290;Personal;AST;Bueno
+Tarjeta madre;528000;Gaming;NER;Regular
+Tarjeta madre;514200;Empresarial;SSI;Regular
+Memoria RAM;1299000;Personal;NER;Malo
+Tarjeta grafica;325000;Empresarial;SSI;Bueno
+Tarjeta grafica;237290;Gaming;AST;Regular
+Memoria RAM;528000;Gaming;NER;Malo
+Procesador;1299000;Personal;NER;Bueno
+Disco duro;237290;Empresarial;NER;Bueno
+Memoria RAM;300000;Empresarial;XTS;Malo
+Disco duro;528000;Personal;SSI;Bueno
+Tarjeta madre;325000;Personal;LVD;Bueno
+Tarjeta madre;325000;Gaming;XTS;Regular
+Memoria RAM;1299000;Empresarial;SSI;Regular
+Procesador;325000;Empresarial;NER;Regular
+Tarjeta grafica;20000;Empresarial;SSI;Bueno
+Tarjeta madre;237290;Empresarial;AST;Malo
+Tarjeta grafica;237290;Gaming;SSI;Bueno
+Memoria RAM;237290;Personal;AST;Bueno
+Memoria RAM;300000;Gaming;NER;Regular
+Tarjeta grafica;325000;Gaming;LVD;Malo
+Disco duro;237290;Personal;AST;Regular
+Tarjeta madre;514200;Personal;AST;Malo
+Procesador;325000;Gaming;XTS;Bueno
+Tarjeta grafica;20000;Personal;AST;Malo
+Tarjeta grafica;237290;Personal;LVD;Regular
+Procesador;237290;Personal;LVD;Regular
+Memoria RAM;1299000;Empresarial;SSI;Malo
+Procesador;514200;Personal;SSI;Bueno
+Disco duro;514200;Empresarial;SSI;Malo
+Disco duro;528000;Personal;LVD;Regular
+Disco duro;237290;Personal;LVD;Regular
+Disco duro;300000;Personal;XTS;Malo
+Memoria RAM;514200;Gaming;XTS;Regular
+Procesador;300000;Empresarial;XTS;Malo
+Tarjeta grafica;300000;Gaming;AST;Regular
+Tarjeta madre;300000;Personal;NER;Regular
+Procesador;20000;Empresarial;LVD;Malo
+Tarjeta madre;20000;Gaming;XTS;Malo
+Disco duro;325000;Gaming;LVD;Malo
+Tarjeta madre;528000;Empresarial;AST;Malo
+Tarjeta grafica;514200;Gaming;AST;Bueno
+Disco duro;514200;Gaming;LVD;Regular
+Procesador;237290;Empresarial;NER;Regular
+Tarjeta grafica;325000;Personal;LVD;Bueno
+Procesador;1299000;Personal;LVD;Malo
+Tarjeta grafica;237290;Gaming;AST;Malo
+Tarjeta madre;514200;Gaming;LVD;Malo
+Tarjeta grafica;325000;Empresarial;XTS;Malo
+Memoria RAM;237290;Empresarial;LVD;Regular
+Memoria RAM;20000;Personal;LVD;Regular
+Memoria RAM;1299000;Gaming;LVD;Malo
+Procesador;300000;Gaming;NER;Regular
+Procesador;514200;Gaming;LVD;Regular
+Tarjeta madre;20000;Personal;XTS;Regular
+Tarjeta madre;300000;Gaming;AST;Bueno
+Tarjeta grafica;325000;Gaming;AST;Malo
+Disco duro;528000;Empresarial;SSI;Bueno
+Tarjeta grafica;300000;Personal;NER;Malo
+Disco duro;325000;Personal;NER;Regular
+Memoria RAM;237290;Personal;XTS;Bueno
+Tarjeta grafica;237290;Gaming;LVD;Regular
+Memoria RAM;237290;Empresarial;AST;Malo
+Disco duro;1299000;Empresarial;XTS;Bueno
+Memoria RAM;1299000;Gaming;NER;Malo
+Memoria RAM;20000;Personal;XTS;Malo
+Disco duro;514200;Gaming;AST;Bueno
+Procesador;1299000;Personal;XTS;Regular
+Disco duro;528000;Gaming;XTS;Malo
+Tarjeta grafica;300000;Empresarial;AST;Regular
+Disco duro;237290;Gaming;AST;Bueno
+Procesador;300000;Gaming;NER;Bueno
+Tarjeta grafica;514200;Gaming;NER;Regular
+Procesador;20000;Empresarial;AST;Malo
+Memoria RAM;300000;Empresarial;SSI;Regular
+Procesador;300000;Personal;SSI;Bueno
+Procesador;528000;Personal;AST;Malo
+Memoria RAM;514200;Personal;NER;Bueno
+Memoria RAM;514200;Gaming;XTS;Malo
+Disco duro;528000;Personal;LVD;Regular
+Memoria RAM;20000;Gaming;LVD;Regular
+Memoria RAM;528000;Gaming;SSI;Bueno
+Procesador;514200;Personal;AST;Regular
+Disco duro;1299000;Empresarial;LVD;Bueno
+Disco duro;20000;Empresarial;NER;Malo
+Tarjeta grafica;528000;Personal;XTS;Bueno
+Tarjeta grafica;1299000;Personal;AST;Malo
+Tarjeta madre;1299000;Empresarial;NER;Malo
+Memoria RAM;237290;Empresarial;SSI;Malo
+Disco duro;237290;Gaming;AST;Regular
+Tarjeta madre;325000;Empresarial;LVD;Malo
+Memoria RAM;528000;Personal;LVD;Bueno
+Memoria RAM;1299000;Personal;NER;Malo
+Procesador;325000;Empresarial;SSI;Malo
+Procesador;20000;Empresarial;AST;Malo
+Tarjeta grafica;20000;Empresarial;NER;Regular
+Tarjeta grafica;20000;Empresarial;LVD;Regular
+Procesador;300000;Empresarial;LVD;Bueno
+Tarjeta grafica;300000;Empresarial;XTS;Regular
+Tarjeta grafica;20000;Personal;SSI;Malo
+Memoria RAM;528000;Gaming;LVD;Regular
+Memoria RAM;1299000;Gaming;LVD;Regular
+Tarjeta madre;325000;Gaming;XTS;Bueno
+Procesador;300000;Personal;XTS;Bueno
+Disco duro;514200;Gaming;XTS;Malo
+Tarjeta madre;300000;Gaming;XTS;Regular
+Disco duro;325000;Gaming;AST;Bueno
+Procesador;1299000;Gaming;LVD;Bueno
+Disco duro;514200;Empresarial;XTS;Malo
+Tarjeta grafica;237290;Empresarial;LVD;Bueno
+Disco duro;1299000;Personal;NER;Regular
+Memoria RAM;237290;Empresarial;SSI;Malo
+Tarjeta madre;20000;Personal;AST;Bueno
+Memoria RAM;528000;Gaming;SSI;Regular
+Disco duro;514200;Empresarial;LVD;Regular
+Memoria RAM;1299000;Empresarial;AST;Malo
+Procesador;1299000;Personal;SSI;Regular
+Tarjeta madre;237290;Personal;LVD;Bueno
+Disco duro;237290;Gaming;NER;Regular
+Tarjeta madre;1299000;Empresarial;LVD;Malo
+Tarjeta grafica;237290;Gaming;XTS;Malo
+Tarjeta madre;300000;Personal;AST;Malo
+Tarjeta grafica;514200;Personal;AST;Bueno
+Tarjeta grafica;20000;Empresarial;XTS;Bueno
+Disco duro;1299000;Gaming;LVD;Malo
+Disco duro;325000;Gaming;NER;Regular
+Tarjeta madre;514200;Gaming;LVD;Regular
+Memoria RAM;300000;Personal;AST;Malo
+Tarjeta grafica;528000;Empresarial;XTS;Regular
+Tarjeta grafica;1299000;Personal;LVD;Bueno
+Procesador;20000;Personal;NER;Regular
+Tarjeta grafica;514200;Gaming;AST;Regular
+Tarjeta grafica;237290;Empresarial;LVD;Bueno
+Memoria RAM;1299000;Empresarial;SSI;Malo
+Memoria RAM;514200;Gaming;XTS;Bueno
+Tarjeta madre;528000;Personal;NER;Regular
+Procesador;1299000;Gaming;AST;Malo
+Tarjeta grafica;528000;Empresarial;AST;Bueno
+Disco duro;514200;Empresarial;XTS;Regular
+Tarjeta madre;237290;Gaming;SSI;Malo
+Disco duro;514200;Empresarial;LVD;Bueno
+Procesador;514200;Empresarial;SSI;Malo
+Memoria RAM;1299000;Personal;NER;Regular
+Procesador;300000;Empresarial;LVD;Bueno
+Tarjeta madre;514200;Empresarial;NER;Regular
+Tarjeta madre;325000;Empresarial;LVD;Regular
+Memoria RAM;20000;Gaming;LVD;Bueno
+Tarjeta madre;300000;Personal;SSI;Malo
+Disco duro;1299000;Personal;SSI;Regular
+Disco duro;514200;Personal;SSI;Regular
+Tarjeta grafica;514200;Personal;SSI;Bueno
+Disco duro;20000;Personal;AST;Regular
+Disco duro;325000;Empresarial;AST;Bueno
+Memoria RAM;528000;Personal;LVD;Regular
+Procesador;237290;Gaming;XTS;Regular
+Disco duro;237290;Personal;NER;Bueno
+Tarjeta grafica;1299000;Personal;SSI;Regular
+Memoria RAM;325000;Gaming;LVD;Malo
+Tarjeta grafica;325000;Personal;AST;Bueno
+Memoria RAM;237290;Empresarial;SSI;Malo
+Memoria RAM;1299000;Personal;SSI;Regular
+Procesador;300000;Gaming;SSI;Bueno
+Tarjeta madre;514200;Personal;SSI;Bueno
+Tarjeta madre;237290;Empresarial;SSI;Malo
+Procesador;514200;Empresarial;NER;Malo
+Memoria RAM;237290;Personal;SSI;Bueno
+Procesador;1299000;Empresarial;AST;Bueno
+Procesador;237290;Personal;AST;Malo
+Disco duro;528000;Personal;XTS;Bueno
+Disco duro;514200;Gaming;LVD;Malo
+Disco duro;514200;Personal;AST;Regular
+Disco duro;20000;Empresarial;NER;Bueno
+Memoria RAM;20000;Gaming;NER;Malo
+Memoria RAM;20000;Gaming;SSI;Malo
+Tarjeta madre;20000;Empresarial;SSI;Malo
+Memoria RAM;325000;Empresarial;LVD;Regular
+Memoria RAM;300000;Empresarial;XTS;Regular
+Procesador;237290;Gaming;AST;Regular
+Procesador;300000;Empresarial;SSI;Regular
+Memoria RAM;237290;Empresarial;NER;Bueno
+Disco duro;300000;Personal;LVD;Regular
+Disco duro;1299000;Personal;AST;Malo
+Tarjeta madre;514200;Empresarial;LVD;Bueno
+Disco duro;528000;Gaming;NER;Malo
+Memoria RAM;1299000;Gaming;XTS;Bueno
+Procesador;514200;Empresarial;AST;Malo
+Tarjeta madre;237290;Gaming;SSI;Regular
+Tarjeta grafica;300000;Personal;NER;Bueno
+Tarjeta madre;325000;Gaming;AST;Bueno
+Tarjeta madre;1299000;Gaming;XTS;Malo
+Disco duro;514200;Empresarial;SSI;Bueno
+Disco duro;325000;Empresarial;AST;Malo
+Disco duro;20000;Empresarial;NER;Bueno
+Disco duro;325000;Empresarial;NER;Bueno
+Tarjeta madre;237290;Empresarial;NER;Regular
+Memoria RAM;528000;Personal;SSI;Bueno
+Tarjeta grafica;528000;Gaming;AST;Bueno
+Tarjeta madre;325000;Personal;NER;Malo
+Disco duro;20000;Gaming;LVD;Bueno
+Procesador;237290;Empresarial;AST;Regular
+Procesador;237290;Empresarial;NER;Regular
+Tarjeta grafica;514200;Empresarial;SSI;Bueno
+Memoria RAM;514200;Empresarial;NER;Regular
+Disco duro;325000;Gaming;NER;Regular
+Memoria RAM;528000;Personal;NER;Regular
+Tarjeta madre;237290;Empresarial;NER;Bueno
+Disco duro;325000;Personal;LVD;Bueno
+Memoria RAM;20000;Gaming;NER;Malo
+Tarjeta grafica;514200;Personal;AST;Malo
+Memoria RAM;20000;Personal;NER;Bueno
+Tarjeta grafica;325000;Gaming;XTS;Bueno
+Tarjeta grafica;325000;Gaming;SSI;Bueno
+Disco duro;514200;Gaming;XTS;Malo
+Memoria RAM;237290;Gaming;AST;Bueno
+Procesador;237290;Empresarial;LVD;Regular
+Procesador;20000;Gaming;AST;Bueno
+Disco duro;237290;Gaming;AST;Malo
+Memoria RAM;300000;Gaming;NER;Malo
+Tarjeta madre;528000;Personal;LVD;Malo
+Procesador;237290;Empresarial;AST;Bueno
+Disco duro;237290;Empresarial;AST;Regular
+Disco duro;325000;Gaming;SSI;Malo
+Tarjeta madre;300000;Gaming;SSI;Malo
+Tarjeta madre;237290;Personal;XTS;Regular
+Tarjeta grafica;528000;Personal;XTS;Malo
+Procesador;1299000;Gaming;XTS;Regular
+Memoria RAM;300000;Personal;NER;Regular
+Tarjeta madre;325000;Personal;NER;Bueno
+Tarjeta grafica;20000;Gaming;SSI;Regular
+Memoria RAM;20000;Gaming;AST;Bueno
+Disco duro;20000;Personal;LVD;Regular
+Tarjeta madre;325000;Personal;SSI;Bueno
+Memoria RAM;528000;Gaming;XTS;Regular
+Memoria RAM;528000;Empresarial;LVD;Bueno
+Memoria RAM;514200;Empresarial;SSI;Regular
+Disco duro;1299000;Empresarial;AST;Bueno
+Tarjeta grafica;528000;Gaming;AST;Bueno
+Tarjeta madre;237290;Personal;NER;Malo
+Memoria RAM;300000;Personal;XTS;Bueno
+Tarjeta grafica;528000;Empresarial;LVD;Bueno
+Tarjeta madre;325000;Personal;AST;Bueno
+Tarjeta grafica;20000;Gaming;NER;Malo
+Procesador;528000;Personal;NER;Regular
+Memoria RAM;514200;Gaming;AST;Malo
+Disco duro;514200;Personal;NER;Regular
+Tarjeta madre;237290;Gaming;NER;Bueno
+Tarjeta grafica;300000;Empresarial;SSI;Malo
+Tarjeta grafica;325000;Empresarial;NER;Regular
+Disco duro;528000;Personal;XTS;Bueno
+Disco duro;1299000;Gaming;LVD;Regular
+Memoria RAM;237290;Gaming;LVD;Malo
+Procesador;237290;Personal;NER;Regular
+Memoria RAM;237290;Empresarial;LVD;Bueno
+Disco duro;514200;Empresarial;XTS;Bueno
+Memoria RAM;528000;Gaming;NER;Bueno
+Tarjeta grafica;237290;Gaming;AST;Regular
+Memoria RAM;300000;Personal;SSI;Regular
+Disco duro;325000;Personal;LVD;Regular
+Memoria RAM;325000;Empresarial;AST;Bueno
+Memoria RAM;514200;Personal;LVD;Malo
+Memoria RAM;300000;Empresarial;NER;Regular
+Tarjeta madre;514200;Gaming;XTS;Bueno
+Tarjeta madre;325000;Gaming;XTS;Bueno
+Tarjeta madre;237290;Gaming;XTS;Regular
+Procesador;237290;Empresarial;AST;Malo
+Procesador;514200;Empresarial;LVD;Regular
+Tarjeta grafica;325000;Personal;NER;Regular
+Memoria RAM;237290;Gaming;NER;Bueno
+Procesador;237290;Empresarial;NER;Regular
+Memoria RAM;1299000;Personal;AST;Bueno
+Procesador;237290;Empresarial;SSI;Malo
+Disco duro;325000;Gaming;XTS;Bueno
+Tarjeta grafica;325000;Personal;XTS;Malo
+Memoria RAM;300000;Personal;SSI;Bueno
+Memoria RAM;300000;Gaming;SSI;Malo
+Tarjeta grafica;237290;Empresarial;NER;Regular
+Memoria RAM;237290;Gaming;XTS;Bueno
+Tarjeta madre;300000;Empresarial;NER;Regular
+Tarjeta madre;20000;Personal;SSI;Bueno
+Tarjeta madre;1299000;Personal;SSI;Bueno
+Memoria RAM;300000;Gaming;NER;Regular
+Disco duro;528000;Empresarial;NER;Bueno
+Tarjeta madre;20000;Personal;NER;Regular
+Tarjeta grafica;237290;Gaming;NER;Malo
+Procesador;325000;Gaming;SSI;Bueno
+Disco duro;528000;Personal;SSI;Bueno
+Tarjeta madre;325000;Personal;NER;Malo
+Procesador;237290;Personal;AST;Malo
+Tarjeta grafica;300000;Empresarial;LVD;Regular
+Disco duro;325000;Gaming;XTS;Malo
+Procesador;237290;Personal;AST;Bueno
+Tarjeta grafica;528000;Empresarial;NER;Malo
+Disco duro;237290;Empresarial;LVD;Bueno
+Procesador;528000;Personal;LVD;Malo
+Disco duro;325000;Personal;SSI;Regular
+Tarjeta madre;325000;Personal;SSI;Malo
+Procesador;514200;Empresarial;NER;Malo
+Memoria RAM;300000;Gaming;NER;Regular
+Tarjeta grafica;514200;Empresarial;LVD;Regular
+Disco duro;325000;Gaming;NER;Regular
+Disco duro;300000;Personal;AST;Malo
+Procesador;237290;Empresarial;LVD;Malo
+Tarjeta madre;514200;Personal;SSI;Regular
+Memoria RAM;325000;Gaming;NER;Regular
+Memoria RAM;325000;Gaming;SSI;Bueno
+Memoria RAM;325000;Personal;SSI;Malo
+Procesador;20000;Personal;NER;Bueno
+Memoria RAM;514200;Empresarial;XTS;Bueno
+Memoria RAM;514200;Empresarial;SSI;Malo
+Procesador;325000;Personal;SSI;Malo
+Tarjeta madre;1299000;Personal;SSI;Regular
+Tarjeta grafica;300000;Personal;XTS;Malo
+Tarjeta grafica;20000;Gaming;SSI;Regular
+Tarjeta madre;325000;Empresarial;AST;Regular
+Tarjeta grafica;20000;Gaming;LVD;Regular
+Memoria RAM;325000;Personal;XTS;Regular
+Procesador;20000;Gaming;AST;Bueno
+Tarjeta grafica;528000;Gaming;NER;Malo
+Tarjeta madre;20000;Gaming;AST;Bueno
+Tarjeta madre;514200;Gaming;NER;Malo
+Disco duro;237290;Personal;AST;Malo
+Procesador;325000;Gaming;LVD;Bueno
+Tarjeta grafica;237290;Empresarial;SSI;Bueno
+Tarjeta grafica;1299000;Empresarial;LVD;Regular
+Tarjeta grafica;237290;Personal;SSI;Bueno
+Procesador;237290;Personal;LVD;Regular
+Tarjeta grafica;300000;Gaming;LVD;Bueno
+Procesador;1299000;Empresarial;NER;Bueno
+Procesador;514200;Empresarial;SSI;Bueno
+Tarjeta madre;237290;Empresarial;LVD;Bueno
+Tarjeta madre;1299000;Personal;AST;Malo
+Procesador;237290;Empresarial;NER;Malo
+Memoria RAM;237290;Personal;NER;Regular
+Tarjeta madre;528000;Empresarial;AST;Regular
+Tarjeta madre;1299000;Empresarial;XTS;Regular
+Tarjeta madre;1299000;Empresarial;NER;Bueno
+Disco duro;514200;Personal;XTS;Bueno
+Tarjeta grafica;20000;Gaming;NER;Bueno
+Disco duro;20000;Empresarial;LVD;Bueno
+Procesador;300000;Empresarial;LVD;Bueno
+Tarjeta madre;528000;Personal;XTS;Regular
+Disco duro;20000;Gaming;XTS;Regular
+Memoria RAM;300000;Gaming;LVD;Bueno
+Memoria RAM;20000;Personal;AST;Regular
+Tarjeta grafica;20000;Empresarial;XTS;Malo
+Memoria RAM;514200;Gaming;XTS;Regular
+Tarjeta grafica;325000;Empresarial;LVD;Bueno
+Tarjeta madre;325000;Gaming;NER;Bueno
+Memoria RAM;514200;Empresarial;LVD;Regular
+Tarjeta grafica;514200;Gaming;LVD;Malo
+Memoria RAM;20000;Personal;SSI;Regular
+Tarjeta grafica;1299000;Empresarial;NER;Malo
+Procesador;514200;Gaming;SSI;Bueno
+Memoria RAM;237290;Empresarial;SSI;Malo
+Tarjeta madre;1299000;Gaming;LVD;Bueno
+Disco duro;20000;Gaming;LVD;Regular
+Memoria RAM;20000;Gaming;XTS;Regular
+Tarjeta grafica;514200;Empresarial;NER;Bueno
+Tarjeta madre;1299000;Gaming;XTS;Malo
+Tarjeta grafica;1299000;Gaming;LVD;Malo
+Tarjeta madre;237290;Empresarial;AST;Bueno
+Memoria RAM;528000;Personal;AST;Malo
+Tarjeta grafica;20000;Personal;XTS;Malo
+Disco duro;514200;Personal;LVD;Regular
+Procesador;514200;Gaming;SSI;Bueno
+Tarjeta madre;325000;Empresarial;LVD;Regular
+Disco duro;325000;Personal;XTS;Regular
+Memoria RAM;1299000;Personal;NER;Regular
+Tarjeta madre;20000;Gaming;XTS;Malo
+Tarjeta grafica;1299000;Empresarial;LVD;Bueno
+Memoria RAM;528000;Personal;XTS;Regular
+Memoria RAM;237290;Personal;NER;Bueno
+Disco duro;528000;Personal;LVD;Bueno
+Disco duro;1299000;Gaming;SSI;Regular
+Tarjeta madre;20000;Personal;NER;Regular
+Memoria RAM;325000;Gaming;LVD;Malo
+Tarjeta grafica;237290;Personal;NER;Regular
+Tarjeta madre;300000;Gaming;NER;Bueno
+Tarjeta grafica;514200;Personal;NER;Regular
+Tarjeta grafica;1299000;Personal;AST;Bueno
+Procesador;300000;Gaming;XTS;Regular
+Procesador;325000;Empresarial;SSI;Malo
+Procesador;237290;Personal;XTS;Malo
+Disco duro;237290;Empresarial;SSI;Bueno
+Disco duro;514200;Personal;NER;Regular
+Memoria RAM;528000;Empresarial;LVD;Bueno
+Tarjeta grafica;20000;Gaming;NER;Malo
+Procesador;237290;Empresarial;XTS;Bueno
+Procesador;20000;Personal;NER;Regular
+Memoria RAM;1299000;Personal;NER;Bueno
+Tarjeta madre;300000;Personal;AST;Bueno
+Tarjeta grafica;237290;Empresarial;LVD;Malo
+Disco duro;528000;Gaming;NER;Bueno
+Tarjeta grafica;300000;Personal;NER;Bueno
+Tarjeta grafica;300000;Empresarial;AST;Malo
+Procesador;237290;Gaming;LVD;Malo
+Tarjeta grafica;528000;Personal;SSI;Regular
+Tarjeta grafica;325000;Gaming;AST;Regular
+Procesador;514200;Empresarial;AST;Malo
+Disco duro;300000;Personal;LVD;Malo
+Tarjeta madre;1299000;Empresarial;LVD;Malo
+Tarjeta grafica;325000;Personal;LVD;Regular
+Procesador;237290;Empresarial;XTS;Regular
+Tarjeta madre;237290;Empresarial;NER;Malo
+Tarjeta grafica;20000;Gaming;NER;Bueno
+Memoria RAM;300000;Gaming;XTS;Bueno
+Disco duro;20000;Personal;NER;Malo
+Disco duro;528000;Gaming;NER;Malo
+Procesador;325000;Empresarial;NER;Regular
+Procesador;325000;Gaming;NER;Bueno
+Memoria RAM;20000;Empresarial;XTS;Regular
+Memoria RAM;325000;Gaming;LVD;Regular
+Procesador;514200;Empresarial;SSI;Malo
+Memoria RAM;300000;Empresarial;XTS;Bueno
+Procesador;325000;Gaming;LVD;Bueno
+Tarjeta madre;300000;Empresarial;XTS;Bueno
+Memoria RAM;20000;Gaming;XTS;Regular
+Procesador;1299000;Gaming;AST;Regular
+Disco duro;514200;Personal;SSI;Regular
+Tarjeta grafica;237290;Gaming;LVD;Bueno
+Memoria RAM;528000;Empresarial;NER;Malo
+Procesador;325000;Personal;NER;Malo
+Tarjeta madre;325000;Gaming;XTS;Malo
+Memoria RAM;300000;Empresarial;XTS;Malo
+Memoria RAM;20000;Personal;LVD;Regular
+Disco duro;237290;Empresarial;NER;Regular
+Memoria RAM;514200;Gaming;SSI;Malo
+Tarjeta grafica;1299000;Gaming;LVD;Malo
+Procesador;300000;Personal;XTS;Regular
+Disco duro;237290;Personal;XTS;Regular
+Tarjeta madre;300000;Empresarial;NER;Malo
+Memoria RAM;528000;Gaming;AST;Malo
+Memoria RAM;325000;Empresarial;LVD;Malo
+Disco duro;514200;Personal;XTS;Malo
+Procesador;1299000;Gaming;AST;Regular
+Procesador;20000;Gaming;LVD;Bueno
+Tarjeta grafica;20000;Gaming;XTS;Bueno
+Memoria RAM;1299000;Personal;AST;Regular
+Memoria RAM;300000;Personal;LVD;Regular
+Tarjeta grafica;514200;Gaming;AST;Malo
+Disco duro;300000;Empresarial;AST;Regular
+Tarjeta madre;1299000;Gaming;XTS;Malo
+Procesador;325000;Empresarial;NER;Regular
+Memoria RAM;20000;Personal;AST;Malo
+Memoria RAM;325000;Empresarial;NER;Bueno
+Tarjeta madre;325000;Empresarial;XTS;Malo
+Disco duro;1299000;Empresarial;XTS;Bueno
+Procesador;528000;Empresarial;XTS;Bueno
+Procesador;325000;Personal;NER;Bueno
+Procesador;514200;Empresarial;SSI;Malo
+Procesador;325000;Empresarial;SSI;Bueno
+Disco duro;237290;Personal;LVD;Bueno
+Memoria RAM;20000;Gaming;NER;Regular
+Tarjeta grafica;20000;Empresarial;XTS;Malo
+Memoria RAM;20000;Gaming;LVD;Regular
+Tarjeta madre;325000;Empresarial;XTS;Bueno
+Disco duro;300000;Personal;AST;Bueno
+Procesador;20000;Personal;NER;Bueno
+Disco duro;514200;Gaming;SSI;Bueno
+Tarjeta madre;1299000;Gaming;LVD;Regular
+Memoria RAM;300000;Personal;XTS;Regular
+Procesador;300000;Gaming;LVD;Bueno
+Tarjeta grafica;20000;Gaming;NER;Malo
+Tarjeta madre;528000;Empresarial;AST;Bueno
+Procesador;300000;Empresarial;NER;Malo
+Memoria RAM;528000;Personal;XTS;Bueno
+Disco duro;528000;Gaming;XTS;Regular
+Disco duro;1299000;Gaming;SSI;Malo
+Tarjeta madre;514200;Empresarial;SSI;Bueno
+Disco duro;237290;Gaming;NER;Bueno
+Disco duro;237290;Empresarial;AST;Bueno
+Tarjeta madre;1299000;Gaming;LVD;Regular
+Memoria RAM;20000;Empresarial;AST;Regular
+Procesador;1299000;Gaming;XTS;Bueno
+Memoria RAM;237290;Empresarial;NER;Bueno
+Tarjeta madre;300000;Personal;NER;Malo
+Tarjeta madre;300000;Personal;LVD;Malo
+Memoria RAM;528000;Gaming;XTS;Regular
+Procesador;325000;Gaming;XTS;Bueno
+Tarjeta madre;528000;Gaming;AST;Regular
+Memoria RAM;300000;Gaming;XTS;Bueno
+Memoria RAM;325000;Empresarial;LVD;Bueno
+Memoria RAM;325000;Empresarial;SSI;Malo
+Disco duro;20000;Personal;NER;Malo
+Memoria RAM;325000;Empresarial;XTS;Regular
+Procesador;514200;Empresarial;NER;Bueno
+Memoria RAM;514200;Empresarial;NER;Malo
+Tarjeta madre;528000;Empresarial;XTS;Regular
+Disco duro;300000;Personal;LVD;Regular
+Tarjeta grafica;300000;Personal;AST;Bueno
+Tarjeta madre;514200;Gaming;NER;Regular
+Tarjeta grafica;1299000;Empresarial;NER;Regular
+Tarjeta grafica;20000;Gaming;SSI;Regular
+Tarjeta madre;325000;Personal;NER;Regular
+Tarjeta madre;237290;Empresarial;XTS;Bueno
+Disco duro;300000;Gaming;AST;Regular
+Disco duro;528000;Empresarial;AST;Regular
+Tarjeta grafica;237290;Personal;LVD;Bueno
+Memoria RAM;20000;Empresarial;NER;Regular
+Tarjeta grafica;325000;Empresarial;XTS;Bueno
+Tarjeta grafica;325000;Personal;LVD;Malo
+Disco duro;528000;Personal;XTS;Bueno
+Memoria RAM;325000;Gaming;AST;Malo
+Memoria RAM;300000;Empresarial;AST;Bueno
+Procesador;300000;Personal;NER;Malo
+Tarjeta madre;514200;Personal;SSI;Bueno
+Tarjeta grafica;20000;Empresarial;XTS;Malo
+Tarjeta grafica;528000;Empresarial;AST;Bueno
+Tarjeta grafica;528000;Empresarial;NER;Regular
+Tarjeta grafica;300000;Empresarial;NER;Bueno
+Tarjeta madre;20000;Gaming;NER;Regular
+Tarjeta grafica;20000;Personal;XTS;Malo
+Procesador;300000;Personal;XTS;Bueno
+Tarjeta grafica;20000;Empresarial;SSI;Regular
+Procesador;237290;Empresarial;XTS;Malo
+Procesador;514200;Personal;SSI;Malo
+Disco duro;1299000;Gaming;AST;Bueno
+Disco duro;20000;Gaming;XTS;Bueno
+Tarjeta madre;237290;Personal;AST;Malo
+Memoria RAM;325000;Personal;SSI;Regular
+Tarjeta grafica;325000;Personal;SSI;Malo
+Disco duro;300000;Empresarial;AST;Regular
+Procesador;325000;Personal;XTS;Malo
+Tarjeta grafica;514200;Gaming;SSI;Malo
+Procesador;528000;Gaming;NER;Regular
+Memoria RAM;514200;Empresarial;XTS;Regular
+Disco duro;325000;Personal;XTS;Regular
+Tarjeta madre;237290;Gaming;SSI;Bueno
+Tarjeta grafica;20000;Personal;AST;Regular
+Tarjeta grafica;300000;Gaming;AST;Regular
+Tarjeta grafica;528000;Empresarial;LVD;Regular
+Tarjeta grafica;1299000;Empresarial;AST;Regular
+Procesador;514200;Empresarial;LVD;Bueno
+Tarjeta madre;300000;Empresarial;LVD;Bueno
+Tarjeta madre;514200;Personal;AST;Malo
+Disco duro;237290;Personal;SSI;Malo
+Tarjeta madre;325000;Empresarial;XTS;Bueno
+Memoria RAM;237290;Gaming;XTS;Bueno
+Memoria RAM;237290;Gaming;SSI;Regular
+Tarjeta madre;237290;Gaming;XTS;Malo
+Tarjeta grafica;514200;Gaming;AST;Bueno
+Tarjeta grafica;237290;Gaming;XTS;Bueno
+Memoria RAM;20000;Personal;AST;Malo
+Memoria RAM;300000;Gaming;XTS;Regular
+Disco duro;237290;Personal;XTS;Malo
+Disco duro;237290;Personal;NER;Regular
+Procesador;325000;Gaming;AST;Bueno
+Disco duro;514200;Gaming;NER;Bueno
+Procesador;237290;Gaming;XTS;Bueno
+Memoria RAM;237290;Personal;SSI;Regular
+Tarjeta grafica;528000;Gaming;XTS;Regular
+Tarjeta grafica;1299000;Empresarial;NER;Bueno
+Memoria RAM;20000;Personal;NER;Bueno
+Disco duro;20000;Empresarial;AST;Regular
+Tarjeta madre;1299000;Personal;NER;Malo
+Tarjeta madre;514200;Personal;NER;Regular
+Disco duro;1299000;Empresarial;AST;Bueno
+Tarjeta grafica;514200;Personal;SSI;Malo
+Procesador;20000;Personal;LVD;Regular
+Memoria RAM;325000;Personal;AST;Bueno
+Procesador;325000;Empresarial;AST;Bueno
+Procesador;528000;Gaming;XTS;Bueno
+Procesador;300000;Empresarial;SSI;Bueno
+Memoria RAM;514200;Personal;AST;Bueno
+Memoria RAM;325000;Gaming;SSI;Regular
+Tarjeta grafica;325000;Gaming;NER;Regular
+Procesador;514200;Empresarial;LVD;Regular
+Memoria RAM;237290;Gaming;NER;Regular
+Disco duro;300000;Gaming;SSI;Regular
+Tarjeta grafica;20000;Personal;AST;Bueno
+Procesador;20000;Gaming;AST;Regular
+Tarjeta madre;514200;Empresarial;SSI;Malo
+Tarjeta grafica;528000;Empresarial;XTS;Malo
+Disco duro;514200;Empresarial;XTS;Regular
+Memoria RAM;20000;Gaming;XTS;Malo
+Disco duro;300000;Gaming;SSI;Regular
+Disco duro;237290;Empresarial;NER;Bueno
+Tarjeta grafica;20000;Personal;XTS;Malo
+Procesador;325000;Empresarial;SSI;Malo
+Memoria RAM;237290;Gaming;XTS;Bueno
+Procesador;1299000;Empresarial;XTS;Malo
+Tarjeta grafica;20000;Gaming;NER;Bueno
+Memoria RAM;300000;Personal;NER;Bueno
+Tarjeta grafica;514200;Gaming;LVD;Bueno
+Memoria RAM;20000;Empresarial;AST;Malo
+Disco duro;300000;Personal;AST;Regular
+Procesador;514200;Personal;SSI;Malo
+Procesador;20000;Empresarial;LVD;Regular
+Tarjeta grafica;528000;Empresarial;AST;Regular
+Tarjeta grafica;325000;Personal;AST;Bueno
+Tarjeta grafica;237290;Personal;XTS;Bueno
+Tarjeta grafica;237290;Gaming;XTS;Malo
+Tarjeta madre;300000;Personal;XTS;Regular
+Tarjeta grafica;300000;Gaming;SSI;Malo
+Tarjeta madre;528000;Personal;NER;Bueno
+Disco duro;325000;Personal;SSI;Regular
+Tarjeta grafica;528000;Empresarial;LVD;Malo
+Memoria RAM;300000;Gaming;SSI;Regular
+Procesador;300000;Gaming;SSI;Malo
+Tarjeta madre;20000;Personal;AST;Regular
+Procesador;237290;Gaming;XTS;Malo
+Memoria RAM;325000;Gaming;SSI;Bueno
+Tarjeta madre;237290;Personal;NER;Bueno
+Tarjeta madre;300000;Gaming;NER;Malo
+Procesador;514200;Gaming;XTS;Bueno
+Memoria RAM;528000;Empresarial;SSI;Malo
+Tarjeta grafica;20000;Gaming;AST;Regular
+Tarjeta grafica;237290;Gaming;LVD;Malo
+Tarjeta madre;1299000;Gaming;SSI;Regular
+Procesador;514200;Gaming;LVD;Regular
+Procesador;514200;Empresarial;NER;Regular
+Tarjeta madre;237290;Personal;LVD;Regular
+Tarjeta madre;528000;Personal;LVD;Bueno
+Procesador;1299000;Gaming;AST;Malo
+Procesador;1299000;Gaming;SSI;Regular
+Tarjeta grafica;325000;Gaming;LVD;Regular
+Tarjeta madre;237290;Personal;LVD;Regular
+Tarjeta grafica;20000;Empresarial;XTS;Bueno
+Disco duro;528000;Personal;XTS;Malo
+Disco duro;300000;Personal;NER;Malo
+Tarjeta madre;237290;Personal;AST;Bueno
+Tarjeta madre;514200;Personal;LVD;Bueno
+Procesador;528000;Empresarial;NER;Malo
+Procesador;1299000;Empresarial;NER;Malo
+Memoria RAM;514200;Gaming;LVD;Regular
+Tarjeta madre;237290;Empresarial;LVD;Malo
+Tarjeta madre;514200;Personal;AST;Malo
+Tarjeta madre;528000;Gaming;SSI;Regular
+Tarjeta grafica;20000;Gaming;XTS;Bueno
+Memoria RAM;237290;Personal;LVD;Regular
+Tarjeta grafica;325000;Gaming;XTS;Malo
+Disco duro;20000;Gaming;LVD;Bueno
+Tarjeta madre;514200;Gaming;AST;Regular
+Procesador;1299000;Personal;NER;Regular
+Memoria RAM;237290;Personal;XTS;Malo
+Tarjeta madre;528000;Gaming;AST;Malo
+Disco duro;1299000;Gaming;AST;Bueno
+Tarjeta grafica;528000;Personal;SSI;Bueno
+Tarjeta grafica;237290;Empresarial;XTS;Regular
+Tarjeta grafica;237290;Personal;NER;Malo
+Disco duro;325000;Gaming;XTS;Regular
+Disco duro;300000;Empresarial;AST;Bueno
+Procesador;325000;Gaming;NER;Malo
+Disco duro;300000;Empresarial;LVD;Regular
+Memoria RAM;20000;Empresarial;SSI;Bueno
+Memoria RAM;300000;Gaming;LVD;Bueno
+Procesador;237290;Gaming;AST;Regular
+Disco duro;325000;Gaming;AST;Regular
+Tarjeta grafica;325000;Gaming;SSI;Regular
+Tarjeta madre;20000;Personal;SSI;Malo
+Memoria RAM;1299000;Empresarial;SSI;Bueno
+Disco duro;514200;Gaming;LVD;Bueno
+Procesador;514200;Empresarial;AST;Malo
+Tarjeta madre;514200;Personal;AST;Bueno
+Tarjeta grafica;20000;Gaming;AST;Malo
+Procesador;300000;Personal;SSI;Bueno
+Disco duro;237290;Empresarial;XTS;Bueno
+Tarjeta grafica;300000;Empresarial;SSI;Bueno
+Procesador;325000;Empresarial;XTS;Malo
+Disco duro;325000;Empresarial;AST;Bueno
+Tarjeta grafica;1299000;Gaming;SSI;Regular
+Tarjeta madre;325000;Empresarial;SSI;Bueno
+Tarjeta grafica;20000;Gaming;LVD;Malo
+Tarjeta madre;514200;Gaming;LVD;Bueno
+Tarjeta grafica;528000;Empresarial;AST;Bueno
+Disco duro;237290;Gaming;XTS;Bueno
+Memoria RAM;20000;Personal;AST;Bueno
+Memoria RAM;528000;Personal;AST;Malo
+Tarjeta grafica;1299000;Personal;AST;Regular
+Tarjeta madre;300000;Personal;XTS;Regular
+Tarjeta grafica;20000;Personal;LVD;Regular
+Tarjeta madre;237290;Gaming;AST;Malo
+Tarjeta grafica;300000;Gaming;SSI;Malo
+Tarjeta madre;1299000;Personal;LVD;Bueno
+Tarjeta grafica;300000;Personal;AST;Regular
+Disco duro;20000;Empresarial;AST;Malo
+Tarjeta grafica;1299000;Personal;NER;Regular
+Procesador;1299000;Personal;XTS;Malo
+Memoria RAM;514200;Gaming;NER;Regular
+Procesador;300000;Personal;XTS;Malo
+Procesador;325000;Gaming;NER;Bueno
+Tarjeta madre;325000;Personal;XTS;Malo
+Disco duro;528000;Empresarial;NER;Regular
+Tarjeta grafica;514200;Personal;SSI;Regular
+Tarjeta grafica;528000;Gaming;LVD;Malo
+Memoria RAM;1299000;Personal;SSI;Bueno
+Tarjeta grafica;300000;Personal;NER;Malo
+Memoria RAM;300000;Personal;AST;Malo
+Memoria RAM;300000;Gaming;AST;Bueno
+Tarjeta grafica;237290;Personal;SSI;Bueno
+Disco duro;514200;Empresarial;SSI;Regular
+Memoria RAM;300000;Gaming;SSI;Regular
+Tarjeta grafica;325000;Personal;NER;Regular
+Tarjeta madre;514200;Personal;SSI;Malo
+Memoria RAM;528000;Empresarial;XTS;Bueno
+Tarjeta madre;300000;Empresarial;LVD;Regular
+Tarjeta grafica;237290;Gaming;SSI;Malo
+Tarjeta madre;237290;Personal;SSI;Malo
+Tarjeta grafica;528000;Personal;SSI;Malo
+Memoria RAM;514200;Empresarial;NER;Malo
+Disco duro;528000;Empresarial;XTS;Malo
+Tarjeta grafica;1299000;Personal;XTS;Bueno
+Memoria RAM;20000;Gaming;SSI;Malo
+Disco duro;514200;Gaming;LVD;Bueno
+Disco duro;300000;Empresarial;NER;Regular
+Procesador;514200;Empresarial;NER;Regular
+Tarjeta grafica;325000;Gaming;LVD;Malo
+Tarjeta grafica;1299000;Gaming;LVD;Regular
+Tarjeta madre;20000;Personal;LVD;Bueno
+Tarjeta grafica;300000;Personal;AST;Regular
+Tarjeta madre;20000;Gaming;AST;Regular
+Tarjeta grafica;325000;Empresarial;AST;Regular
+Memoria RAM;237290;Personal;AST;Malo
+Tarjeta madre;20000;Personal;LVD;Malo
+Tarjeta grafica;1299000;Gaming;NER;Malo
+Memoria RAM;514200;Empresarial;AST;Malo
+Disco duro;300000;Personal;NER;Regular
+Procesador;1299000;Personal;AST;Malo
+Disco duro;20000;Empresarial;NER;Bueno
+Tarjeta madre;237290;Personal;NER;Regular
+Disco duro;237290;Empresarial;XTS;Regular
+Tarjeta grafica;325000;Gaming;XTS;Malo
+Memoria RAM;325000;Empresarial;AST;Regular
+Memoria RAM;1299000;Empresarial;AST;Bueno
+Disco duro;20000;Empresarial;SSI;Malo
+Memoria RAM;528000;Empresarial;SSI;Bueno
+Tarjeta grafica;325000;Personal;LVD;Regular
+Procesador;300000;Personal;LVD;Regular
+Procesador;1299000;Personal;NER;Bueno
+Memoria RAM;528000;Personal;SSI;Bueno
+Disco duro;514200;Personal;XTS;Bueno
+Procesador;20000;Personal;AST;Malo
+Tarjeta grafica;325000;Gaming;XTS;Bueno
+Disco duro;1299000;Empresarial;LVD;Malo
+Procesador;237290;Personal;XTS;Bueno
+Tarjeta grafica;325000;Empresarial;LVD;Bueno
+Tarjeta madre;1299000;Empresarial;SSI;Malo
+Tarjeta grafica;528000;Gaming;NER;Malo
+Tarjeta madre;1299000;Empresarial;LVD;Malo
+Tarjeta grafica;1299000;Gaming;LVD;Regular
+Tarjeta grafica;1299000;Gaming;AST;Malo
+Disco duro;1299000;Gaming;XTS;Regular
+Tarjeta grafica;237290;Empresarial;NER;Malo
+Memoria RAM;237290;Personal;AST;Malo
+Tarjeta grafica;20000;Gaming;XTS;Malo
+Disco duro;325000;Personal;XTS;Malo
+Disco duro;325000;Gaming;NER;Bueno
+Tarjeta grafica;237290;Empresarial;SSI;Malo
+Memoria RAM;20000;Empresarial;SSI;Regular
+Tarjeta grafica;528000;Gaming;LVD;Malo
+Disco duro;20000;Empresarial;AST;Regular
+Memoria RAM;237290;Personal;SSI;Regular
+Disco duro;514200;Empresarial;NER;Bueno
+Tarjeta madre;300000;Empresarial;XTS;Malo
+Procesador;514200;Empresarial;XTS;Regular
+Tarjeta madre;325000;Empresarial;AST;Bueno
+Tarjeta madre;325000;Gaming;LVD;Bueno
+Tarjeta madre;514200;Personal;LVD;Bueno
+Tarjeta grafica;20000;Gaming;NER;Malo
+Procesador;325000;Personal;SSI;Malo
+Tarjeta grafica;325000;Empresarial;LVD;Malo
+Procesador;20000;Empresarial;XTS;Bueno
+Tarjeta madre;325000;Gaming;LVD;Malo
+Procesador;237290;Empresarial;XTS;Regular
+Tarjeta madre;528000;Empresarial;NER;Malo
+Tarjeta grafica;514200;Empresarial;NER;Malo
+Procesador;528000;Personal;AST;Bueno
+Memoria RAM;325000;Personal;SSI;Bueno
+Procesador;20000;Empresarial;SSI;Bueno
+Tarjeta madre;300000;Personal;SSI;Regular
+Tarjeta madre;300000;Gaming;LVD;Bueno
+Disco duro;325000;Empresarial;LVD;Malo
+Memoria RAM;20000;Empresarial;XTS;Malo
+Tarjeta madre;514200;Empresarial;SSI;Malo
+Tarjeta grafica;514200;Personal;NER;Bueno
+Tarjeta madre;528000;Personal;XTS;Malo
+Procesador;237290;Personal;XTS;Regular
+Memoria RAM;514200;Empresarial;LVD;Bueno
+Tarjeta grafica;528000;Empresarial;LVD;Regular
+Procesador;528000;Empresarial;LVD;Malo
+Disco duro;325000;Gaming;NER;Malo
+Disco duro;514200;Empresarial;XTS;Regular
+Procesador;20000;Empresarial;LVD;Malo
+Tarjeta madre;300000;Personal;SSI;Bueno
+Tarjeta madre;300000;Empresarial;LVD;Bueno
+Disco duro;20000;Personal;NER;Malo
+Memoria RAM;325000;Gaming;SSI;Malo
+Procesador;300000;Empresarial;NER;Bueno
+Procesador;237290;Gaming;LVD;Bueno
+Procesador;325000;Personal;SSI;Bueno
+Procesador;1299000;Empresarial;XTS;Malo
+Memoria RAM;528000;Empresarial;AST;Malo
+Disco duro;514200;Personal;SSI;Bueno
+Tarjeta grafica;325000;Gaming;AST;Malo
+Tarjeta grafica;514200;Empresarial;NER;Regular
+Tarjeta madre;237290;Empresarial;LVD;Bueno
+Tarjeta grafica;514200;Empresarial;XTS;Regular
+Memoria RAM;237290;Personal;NER;Malo
+Memoria RAM;20000;Personal;SSI;Malo
+Tarjeta grafica;1299000;Personal;AST;Bueno
+Tarjeta grafica;528000;Gaming;NER;Malo
+Memoria RAM;528000;Gaming;NER;Regular
+Tarjeta madre;528000;Personal;SSI;Regular
+Memoria RAM;514200;Gaming;AST;Regular
+Tarjeta madre;514200;Empresarial;SSI;Bueno
+Memoria RAM;1299000;Personal;LVD;Malo
+Tarjeta grafica;528000;Personal;XTS;Bueno
+Disco duro;1299000;Gaming;LVD;Regular
+Tarjeta grafica;237290;Gaming;SSI;Bueno
+Disco duro;237290;Gaming;SSI;Bueno
+Disco duro;237290;Empresarial;SSI;Regular
+Tarjeta grafica;1299000;Personal;XTS;Regular
+Tarjeta madre;1299000;Personal;NER;Bueno
+Memoria RAM;325000;Empresarial;XTS;Malo
+Memoria RAM;528000;Empresarial;AST;Bueno
+Disco duro;300000;Empresarial;LVD;Regular
+Procesador;514200;Empresarial;AST;Regular
+Tarjeta madre;20000;Empresarial;XTS;Malo
+Disco duro;20000;Empresarial;LVD;Bueno
+Procesador;528000;Personal;NER;Regular
+Procesador;1299000;Empresarial;AST;Malo
+Disco duro;514200;Personal;SSI;Malo
+Procesador;1299000;Gaming;AST;Regular
+Memoria RAM;300000;Personal;SSI;Bueno
+Disco duro;20000;Empresarial;LVD;Malo
+Procesador;300000;Gaming;XTS;Bueno
+Disco duro;528000;Empresarial;LVD;Malo
+Memoria RAM;20000;Empresarial;LVD;Malo
+Tarjeta madre;528000;Personal;AST;Regular
+Disco duro;514200;Gaming;SSI;Malo
+Tarjeta madre;325000;Empresarial;XTS;Bueno
+Tarjeta madre;1299000;Personal;XTS;Bueno
+Tarjeta grafica;1299000;Personal;SSI;Regular
+Tarjeta madre;514200;Gaming;NER;Regular
+Tarjeta grafica;237290;Empresarial;NER;Bueno
+Disco duro;514200;Gaming;XTS;Regular
+Disco duro;1299000;Empresarial;SSI;Bueno
+Memoria RAM;20000;Gaming;NER;Bueno
+Tarjeta grafica;20000;Empresarial;LVD;Regular
+Procesador;300000;Empresarial;NER;Bueno
+Memoria RAM;20000;Gaming;XTS;Regular
+Tarjeta madre;514200;Empresarial;AST;Regular
+Memoria RAM;528000;Gaming;XTS;Bueno
+Disco duro;514200;Empresarial;XTS;Regular
+Disco duro;325000;Personal;NER;Malo
+Disco duro;20000;Personal;LVD;Malo
+Memoria RAM;1299000;Personal;XTS;Malo
+Procesador;514200;Empresarial;NER;Malo
+Procesador;237290;Empresarial;LVD;Regular
+Tarjeta madre;528000;Personal;NER;Regular
+Procesador;325000;Empresarial;NER;Malo
+Procesador;300000;Empresarial;XTS;Regular
+Tarjeta grafica;20000;Personal;NER;Bueno
+Tarjeta madre;528000;Personal;SSI;Malo
+Tarjeta grafica;528000;Personal;LVD;Malo
+Procesador;514200;Gaming;SSI;Malo
+Disco duro;325000;Empresarial;SSI;Regular
+Procesador;514200;Personal;SSI;Bueno
+Tarjeta madre;325000;Gaming;AST;Regular
+Procesador;514200;Empresarial;SSI;Malo
+Memoria RAM;20000;Gaming;XTS;Malo
+Tarjeta grafica;325000;Personal;LVD;Malo
+Tarjeta grafica;20000;Gaming;LVD;Bueno
+Tarjeta grafica;528000;Personal;LVD;Bueno
+Memoria RAM;237290;Empresarial;NER;Regular
+Tarjeta madre;514200;Gaming;SSI;Regular
+Tarjeta grafica;325000;Personal;LVD;Regular
+Tarjeta madre;20000;Personal;AST;Regular
+Memoria RAM;237290;Personal;SSI;Bueno
+Tarjeta grafica;300000;Empresarial;XTS;Malo
+Disco duro;237290;Empresarial;SSI;Malo
+Disco duro;325000;Personal;NER;Malo
+Procesador;325000;Gaming;XTS;Bueno
+Tarjeta grafica;1299000;Personal;AST;Regular
+Tarjeta grafica;300000;Gaming;XTS;Malo
+Memoria RAM;528000;Gaming;SSI;Bueno
+Disco duro;20000;Empresarial;AST;Regular
+Disco duro;528000;Personal;XTS;Regular
+Memoria RAM;528000;Personal;NER;Malo
+Procesador;514200;Personal;LVD;Bueno
+Procesador;20000;Personal;NER;Bueno
+Memoria RAM;300000;Gaming;XTS;Bueno
+Procesador;1299000;Empresarial;LVD;Regular
+Procesador;514200;Empresarial;SSI;Regular
+Procesador;514200;Empresarial;AST;Regular
+Tarjeta grafica;1299000;Gaming;SSI;Bueno
+Procesador;20000;Empresarial;SSI;Malo
+Tarjeta madre;1299000;Gaming;SSI;Bueno
+Tarjeta grafica;300000;Gaming;NER;Regular
+Disco duro;325000;Personal;NER;Malo
+Disco duro;20000;Personal;XTS;Bueno
+Disco duro;1299000;Personal;AST;Malo
+Tarjeta grafica;528000;Empresarial;SSI;Malo
+Tarjeta grafica;20000;Empresarial;XTS;Malo
+Tarjeta grafica;20000;Personal;LVD;Bueno
+Memoria RAM;1299000;Personal;SSI;Malo
+Memoria RAM;237290;Personal;AST;Malo
+Disco duro;325000;Empresarial;LVD;Malo
+Tarjeta madre;325000;Personal;AST;Malo
+Procesador;1299000;Gaming;AST;Regular
+Tarjeta grafica;20000;Gaming;AST;Malo
+Tarjeta madre;20000;Gaming;NER;Malo
+Disco duro;20000;Empresarial;XTS;Regular
+Memoria RAM;514200;Empresarial;AST;Regular
+Tarjeta grafica;237290;Empresarial;XTS;Bueno
+Tarjeta madre;237290;Gaming;NER;Bueno
+Disco duro;514200;Gaming;XTS;Bueno
+Tarjeta madre;20000;Personal;LVD;Regular
+Tarjeta grafica;325000;Empresarial;SSI;Malo
+Procesador;300000;Gaming;SSI;Malo
+Disco duro;237290;Personal;LVD;Malo
+Disco duro;237290;Gaming;XTS;Regular
+Tarjeta madre;300000;Empresarial;NER;Malo
+Memoria RAM;300000;Personal;NER;Malo
+Memoria RAM;1299000;Empresarial;AST;Bueno
+Tarjeta grafica;514200;Personal;XTS;Regular
+Memoria RAM;528000;Empresarial;XTS;Bueno
+Memoria RAM;300000;Gaming;XTS;Regular
+Memoria RAM;325000;Personal;AST;Regular
+Memoria RAM;237290;Empresarial;SSI;Regular
+Procesador;528000;Empresarial;SSI;Regular
+Tarjeta madre;325000;Gaming;XTS;Bueno
+Tarjeta grafica;528000;Personal;XTS;Malo
+Tarjeta grafica;300000;Personal;AST;Regular
+Tarjeta madre;1299000;Personal;NER;Regular
+Procesador;528000;Gaming;AST;Malo
+Tarjeta madre;514200;Empresarial;XTS;Bueno
+Tarjeta madre;514200;Empresarial;AST;Malo
+Tarjeta madre;237290;Gaming;SSI;Malo
+Tarjeta madre;300000;Gaming;NER;Regular
+Disco duro;325000;Personal;AST;Malo
+Tarjeta madre;237290;Gaming;SSI;Regular
+Tarjeta madre;300000;Empresarial;NER;Malo
+Disco duro;1299000;Gaming;XTS;Malo
+Tarjeta madre;300000;Gaming;AST;Bueno
+Tarjeta grafica;237290;Personal;AST;Regular
+Memoria RAM;1299000;Empresarial;XTS;Regular
+Tarjeta madre;20000;Empresarial;LVD;Regular
+Tarjeta madre;20000;Personal;XTS;Malo
+Procesador;325000;Gaming;NER;Malo
+Tarjeta madre;1299000;Gaming;XTS;Bueno
+Disco duro;237290;Gaming;AST;Malo
+Procesador;237290;Gaming;LVD;Regular
+Memoria RAM;300000;Gaming;SSI;Malo
+Memoria RAM;514200;Personal;AST;Regular
+Tarjeta madre;325000;Empresarial;AST;Malo
+Procesador;237290;Empresarial;XTS;Malo
+Memoria RAM;528000;Gaming;SSI;Bueno
+Disco duro;528000;Empresarial;AST;Bueno
+Tarjeta madre;514200;Personal;AST;Malo
+Memoria RAM;514200;Personal;SSI;Regular
+Memoria RAM;1299000;Empresarial;NER;Regular
+Tarjeta grafica;237290;Gaming;XTS;Malo
+Memoria RAM;20000;Gaming;AST;Regular
+Disco duro;514200;Gaming;LVD;Bueno
+Memoria RAM;325000;Empresarial;NER;Regular
+Memoria RAM;514200;Personal;LVD;Regular
+Disco duro;237290;Gaming;AST;Bueno
+Disco duro;237290;Personal;LVD;Bueno
+Memoria RAM;528000;Empresarial;NER;Bueno
+Procesador;300000;Empresarial;SSI;Regular
+Tarjeta madre;325000;Personal;NER;Bueno
+Tarjeta madre;1299000;Empresarial;AST;Regular
+Tarjeta grafica;325000;Personal;XTS;Bueno
+Tarjeta madre;1299000;Empresarial;SSI;Malo
+Disco duro;514200;Personal;SSI;Bueno
+Procesador;1299000;Gaming;NER;Regular
+Tarjeta grafica;325000;Gaming;LVD;Bueno
+Tarjeta grafica;1299000;Empresarial;NER;Malo
+Tarjeta madre;1299000;Personal;XTS;Regular
+Disco duro;514200;Empresarial;NER;Regular
+Memoria RAM;20000;Personal;AST;Regular
+Procesador;237290;Personal;NER;Regular
+Tarjeta madre;528000;Personal;XTS;Malo
+Tarjeta madre;237290;Personal;SSI;Malo
+Disco duro;300000;Personal;XTS;Bueno
+Memoria RAM;300000;Empresarial;NER;Regular
+Tarjeta grafica;1299000;Personal;LVD;Bueno
+Disco duro;1299000;Gaming;LVD;Bueno
+Tarjeta grafica;325000;Empresarial;SSI;Bueno
+Procesador;1299000;Gaming;AST;Bueno
+Tarjeta madre;300000;Personal;NER;Bueno
+Procesador;20000;Personal;LVD;Bueno
+Memoria RAM;325000;Personal;AST;Regular
+Disco duro;300000;Empresarial;SSI;Bueno
+Tarjeta grafica;325000;Personal;LVD;Regular
+Memoria RAM;237290;Gaming;AST;Regular
+Tarjeta grafica;237290;Empresarial;LVD;Bueno
+Tarjeta grafica;528000;Gaming;SSI;Bueno
+Procesador;300000;Empresarial;LVD;Bueno
+Disco duro;528000;Personal;SSI;Malo
+Memoria RAM;20000;Gaming;SSI;Malo
+Tarjeta grafica;1299000;Personal;AST;Bueno
+Memoria RAM;20000;Empresarial;XTS;Malo
+Procesador;528000;Empresarial;LVD;Bueno
+Tarjeta grafica;20000;Empresarial;AST;Bueno
+Procesador;528000;Gaming;AST;Bueno
+Procesador;528000;Personal;XTS;Malo
+Tarjeta grafica;237290;Personal;LVD;Bueno
+Procesador;237290;Personal;XTS;Regular
+Memoria RAM;300000;Gaming;SSI;Malo
+Memoria RAM;325000;Empresarial;XTS;Bueno
+Disco duro;300000;Gaming;AST;Regular
+Tarjeta madre;514200;Gaming;NER;Regular
+Memoria RAM;300000;Gaming;NER;Regular
+Tarjeta grafica;300000;Empresarial;AST;Bueno
+Disco duro;237290;Personal;LVD;Bueno
+Memoria RAM;1299000;Gaming;AST;Malo
+Memoria RAM;325000;Personal;SSI;Bueno
+Tarjeta grafica;325000;Gaming;AST;Malo
+Memoria RAM;528000;Empresarial;AST;Malo
+Tarjeta madre;325000;Personal;SSI;Bueno
