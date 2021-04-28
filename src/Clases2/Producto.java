@@ -1,26 +1,33 @@
-package Clases;
-
-public class Producto {
-	private int id;
+package Clases2;
+public class Producto implements Comparable<Producto>{
 	private int precio;
 	private String nombre;
 	private String categoria;
 	private String opinion;
 	private String marca;
 
-	public Producto(int id,int precio, String nombre, String categoria, String opinion, String marca) {
+	public Producto(int precio, String nombre, String categoria, String opinion, String marca) {
 		this.precio = precio;
 		this.nombre = nombre;
 		this.categoria = categoria;
 		this.opinion = opinion;
 		this.marca = marca;
-		this.id = id;
 	}
+
+	public Producto(){
+
+	}
+
+    
 
 	@Override
 	public String toString() {
-		return "ID: "+ getId()+"\n"+"Nombre: " + getNombre() + "\n" + "Precio: " + getPrecio() + "\n" + "Categoria: " + getCategoria() + "\n"
+		return "Nombre: " + getNombre() + "\n" + "Precio: " + getPrecio() + "\n" + "Categoria: " + getCategoria() + "\n"
 				+ "Marca: " + getMarca() + "\n" + "Opinion: " + getOpinion() +"\n"+ "-----------";
+	}
+	@Override
+	public int compareTo(Producto prod){
+		return this.precio - prod.precio;
 	}
 
 	public int getPrecio() {
@@ -61,14 +68,6 @@ public class Producto {
 
 	public void setMarca(String marca) {
 		this.marca = marca;
-	}
-	
-	public int getId() {
-		return id;
-	}
-	
-	public void setId(int id) {
-		this.id = id;
 	}
 
 }

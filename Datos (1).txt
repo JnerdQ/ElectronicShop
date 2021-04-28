@@ -1,0 +1,10 @@
+Memoria RAM;325000;Empresarial;NER;Bueno
+Memoria RAM;528000;Gaming;XTS;Malo
+Tarjeta grafica;514200;Empresarial;SSI;Bueno
+Tarjeta madre;1299000;Empresarial;XTS;Bueno
+Tarjeta grafica;514200;Gaming;NER;Regular
+Memoria RAM;237290;Gaming;NER;Malo
+Procesador;237290;Personal;XTS;Bueno
+Memoria RAM;20000;Personal;NER;Bueno
+Tarjeta grafica;514200;Gaming;AST;Bueno
+Disco duro;20000;Personal;AST;Regular

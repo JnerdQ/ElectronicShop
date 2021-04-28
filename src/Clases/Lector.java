@@ -17,7 +17,7 @@ public class Lector {
 		try {
 			// Crear un objeto BufferedReader al que se le pasa
 			// un objeto FileReader con el nombre del fichero
-		      br = new BufferedReader(new FileReader(nombreFichero));
+		      br = new BufferedReader(new FileReader(nombreArchivo));
 			// Leer la primera línea, guardando en un String
 			String texto = br.readLine();
 			// Repetir mientras no se llegue al final del fichero
@@ -25,16 +25,17 @@ public class Lector {
 			while (texto != null) {
 
 				String[] atributosProducto = texto.split(";");
-
-				String nombre = atributosProducto[0];
-				int precio = Integer.parseInt(atributosProducto[1]);
-				String categoria = atributosProducto[2];
-				String marca = atributosProducto[3];
-				String opinion = atributosProducto[4];
+				
+				int id =  Integer.parseInt(atributosProducto[0]);
+				String nombre = atributosProducto[1];
+				int precio = Integer.parseInt(atributosProducto[2]);
+				String categoria = atributosProducto[3];
+				String marca = atributosProducto[4];
+				String opinion = atributosProducto[5];
 
 				// Hacer lo que sea con la línea leída
 
-				arregloProductos[indice] = new Producto(precio, nombre, categoria, opinion, marca);
+				arregloProductos[indice] = new Producto(id,precio, nombre, categoria, opinion, marca);
 				indice++;
 
 				// Leer la siguiente línea
@@ -42,9 +43,10 @@ public class Lector {
 			}
 
 		} catch (Exception e) {
-			System.out.println("Error de lectura del fichero");
+			// System.out.println("Error de lectura del fichero");
 			System.out.println("****************************");
 			System.out.println(e.getMessage());
+			System.out.println();
 		} finally {
 			try {
 				if (br != null)
